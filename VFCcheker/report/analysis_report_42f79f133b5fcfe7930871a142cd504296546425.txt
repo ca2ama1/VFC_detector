@@ -1,0 +1,331 @@
+警告：仓库处于 detached HEAD 状态，指向 4e344de104。将在扫描后恢复。
+成功获取Commit: 42f79f133b5fcfe7930871a142cd504296546425
+发现 1 个文件差异...
+在文件 kernel/base/vm/los_vm_filemap.c 中找到 1 个待分析的模式。
+
+============================================================
+CWE 漏洞分析失败。
+
+分析到 1 个文件存在待分析的模式。开始跨分支扫描...
+
+>>>>>> 正在检查分支: origin/OpenHarmony-4.1-Release <<<<<<
+  正在切换到分支: origin/OpenHarmony-4.1-Release...
+  切换成功。
+出现被忽视的方法名称差异：STATIC LOS_ListTailInsert
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsAddToPageacheLru
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsPageCacheDel
+出现被忽视的方法名称差异：STATIC LOS_PhysPageFree
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsAddMapInfo
+出现被忽视的方法名称差异：STATIC info
+出现被忽视的方法名称差异：STATIC LosMapInfo
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsDeletePageCacheLru
+出现被忽视的方法名称差异：INT32 VOID
+出现被忽视的方法名称差异：OsFlushDirtyPage OsPageCacheUnmap
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsVmmFileRemove
+出现被忽视的方法名称差异：STATIC vnode
+出现被忽视的方法名称差异：STATIC mapPage
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsMarkPageDirty
+出现被忽视的方法名称差异：INT32 UINT32
+出现被忽视的方法名称差异：OsFlushDirtyPage GetDirtySize
+出现被忽视的方法名称差异：STATIC fileSize
+出现被忽视的方法名称差异：STATIC len
+出现被忽视的方法名称差异：STATIC buff
+出现被忽视的方法名称差异：STATIC ret
+出现被忽视的方法名称差异：STATIC LosFilePage
+出现被忽视的方法名称差异：STATIC OsCleanPageDirty
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsDoFlushDirtyPage
+出现被忽视的方法名称差异：INT32 VOID
+出现被忽视的方法名称差异：OsFlushDirtyPage OsReleaseFpage
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsDelMapInfo
+出现被忽视的方法名称差异：STATIC mapping
+出现被忽视的方法名称差异：STATIC info
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC INT32
+出现被忽视的方法名称差异：INT32 OsVmmFileFault
+出现被忽视的方法名称差异：STATIC vnode
+出现被忽视的方法名称差异：STATIC newCache
+出现被忽视的方法名称差异：STATIC OsSetPageLocked
+出现被忽视的方法名称差异：STATIC LOS_SpinLockSave
+出现被忽视的方法名称差异：STATIC LOS_SpinLockSave
+出现被忽视的方法名称差异：STATIC vmf
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsFileCacheFlush
+出现被忽视的方法名称差异：STATIC LOS_SpinLockSave
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsFileCacheRemove
+出现被忽视的方法名称差异：STATIC OsDeletePageCacheLru
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC LosVmFileOps
+出现被忽视的方法名称差异：INT32 g_commVmOps
+出现被忽视的方法名称差异：STATIC STATUS_T
+出现被忽视的方法名称差异：INT32 OsNamedMMap
+出现被忽视的方法名称差异：STATIC file_hold
+出现被忽视的方法名称差异：STATIC file_release
+出现被忽视的方法名称差异：STATIC LosFilePage
+出现被忽视的方法名称差异：STATIC physSeg
+出现被忽视的方法名称差异：STATIC fpage
+    - 在 kernel/base/vm/los_vm_filemap.c 中找到模式 #1 的 1 个匹配。
+
+>>>>>> 正在检查分支: origin/OpenHarmony-5.0.3-Release <<<<<<
+  正在切换到分支: origin/OpenHarmony-5.0.3-Release...
+  切换成功。
+出现被忽视的方法名称差异：STATIC LOS_ListTailInsert
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsAddToPageacheLru
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsPageCacheDel
+出现被忽视的方法名称差异：STATIC LOS_PhysPageFree
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsAddMapInfo
+出现被忽视的方法名称差异：STATIC info
+出现被忽视的方法名称差异：STATIC LosMapInfo
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsDeletePageCacheLru
+出现被忽视的方法名称差异：INT32 VOID
+出现被忽视的方法名称差异：OsFlushDirtyPage OsPageCacheUnmap
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsVmmFileRemove
+出现被忽视的方法名称差异：STATIC vnode
+出现被忽视的方法名称差异：STATIC mapPage
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsMarkPageDirty
+出现被忽视的方法名称差异：INT32 UINT32
+出现被忽视的方法名称差异：OsFlushDirtyPage GetDirtySize
+出现被忽视的方法名称差异：STATIC fileSize
+出现被忽视的方法名称差异：STATIC len
+出现被忽视的方法名称差异：STATIC buff
+出现被忽视的方法名称差异：STATIC ret
+出现被忽视的方法名称差异：STATIC LosFilePage
+出现被忽视的方法名称差异：STATIC OsCleanPageDirty
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsDoFlushDirtyPage
+出现被忽视的方法名称差异：INT32 VOID
+出现被忽视的方法名称差异：OsFlushDirtyPage OsReleaseFpage
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsDelMapInfo
+出现被忽视的方法名称差异：STATIC mapping
+出现被忽视的方法名称差异：STATIC info
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC INT32
+出现被忽视的方法名称差异：INT32 OsVmmFileFault
+出现被忽视的方法名称差异：STATIC vnode
+出现被忽视的方法名称差异：STATIC newCache
+出现被忽视的方法名称差异：STATIC OsSetPageLocked
+出现被忽视的方法名称差异：STATIC LOS_SpinLockSave
+出现被忽视的方法名称差异：STATIC LOS_SpinLockSave
+出现被忽视的方法名称差异：STATIC vmf
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsFileCacheFlush
+出现被忽视的方法名称差异：STATIC LOS_SpinLockSave
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsFileCacheRemove
+出现被忽视的方法名称差异：STATIC OsDeletePageCacheLru
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC LosVmFileOps
+出现被忽视的方法名称差异：INT32 g_commVmOps
+出现被忽视的方法名称差异：STATIC STATUS_T
+出现被忽视的方法名称差异：INT32 OsNamedMMap
+出现被忽视的方法名称差异：STATIC file_hold
+出现被忽视的方法名称差异：STATIC file_release
+出现被忽视的方法名称差异：STATIC LosFilePage
+出现被忽视的方法名称差异：STATIC physSeg
+出现被忽视的方法名称差异：STATIC fpage
+    - 在 kernel/base/vm/los_vm_filemap.c 中找到模式 #1 的 1 个匹配。
+
+>>>>>> 正在检查分支: origin/OpenHarmony-5.1.0-Release <<<<<<
+  正在切换到分支: origin/OpenHarmony-5.1.0-Release...
+  切换成功。
+出现被忽视的方法名称差异：STATIC LOS_ListTailInsert
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsAddToPageacheLru
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsPageCacheDel
+出现被忽视的方法名称差异：STATIC LOS_PhysPageFree
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsAddMapInfo
+出现被忽视的方法名称差异：STATIC info
+出现被忽视的方法名称差异：STATIC LosMapInfo
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsDeletePageCacheLru
+出现被忽视的方法名称差异：INT32 VOID
+出现被忽视的方法名称差异：OsFlushDirtyPage OsPageCacheUnmap
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsVmmFileRemove
+出现被忽视的方法名称差异：STATIC vnode
+出现被忽视的方法名称差异：STATIC mapPage
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsMarkPageDirty
+出现被忽视的方法名称差异：INT32 UINT32
+出现被忽视的方法名称差异：OsFlushDirtyPage GetDirtySize
+出现被忽视的方法名称差异：STATIC fileSize
+出现被忽视的方法名称差异：STATIC len
+出现被忽视的方法名称差异：STATIC buff
+出现被忽视的方法名称差异：STATIC ret
+出现被忽视的方法名称差异：STATIC LosFilePage
+出现被忽视的方法名称差异：STATIC OsCleanPageDirty
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsDoFlushDirtyPage
+出现被忽视的方法名称差异：INT32 VOID
+出现被忽视的方法名称差异：OsFlushDirtyPage OsReleaseFpage
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsDelMapInfo
+出现被忽视的方法名称差异：STATIC mapping
+出现被忽视的方法名称差异：STATIC info
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC INT32
+出现被忽视的方法名称差异：INT32 OsVmmFileFault
+出现被忽视的方法名称差异：STATIC vnode
+出现被忽视的方法名称差异：STATIC newCache
+出现被忽视的方法名称差异：STATIC OsSetPageLocked
+出现被忽视的方法名称差异：STATIC LOS_SpinLockSave
+出现被忽视的方法名称差异：STATIC LOS_SpinLockSave
+出现被忽视的方法名称差异：STATIC vmf
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsFileCacheFlush
+出现被忽视的方法名称差异：STATIC LOS_SpinLockSave
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsFileCacheRemove
+出现被忽视的方法名称差异：STATIC OsDeletePageCacheLru
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC LosVmFileOps
+出现被忽视的方法名称差异：INT32 g_commVmOps
+出现被忽视的方法名称差异：STATIC STATUS_T
+出现被忽视的方法名称差异：INT32 OsNamedMMap
+出现被忽视的方法名称差异：STATIC file_hold
+出现被忽视的方法名称差异：STATIC file_release
+出现被忽视的方法名称差异：STATIC LosFilePage
+出现被忽视的方法名称差异：STATIC physSeg
+出现被忽视的方法名称差异：STATIC fpage
+
+>>>>>> 正在检查分支: origin/master <<<<<<
+  正在切换到分支: origin/master...
+  切换成功。
+出现被忽视的方法名称差异：STATIC LOS_ListTailInsert
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsAddToPageacheLru
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsPageCacheDel
+出现被忽视的方法名称差异：STATIC LOS_PhysPageFree
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsAddMapInfo
+出现被忽视的方法名称差异：STATIC info
+出现被忽视的方法名称差异：STATIC LosMapInfo
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsDeletePageCacheLru
+出现被忽视的方法名称差异：INT32 VOID
+出现被忽视的方法名称差异：OsFlushDirtyPage OsPageCacheUnmap
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsVmmFileRemove
+出现被忽视的方法名称差异：STATIC vnode
+出现被忽视的方法名称差异：STATIC mapPage
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsMarkPageDirty
+出现被忽视的方法名称差异：INT32 UINT32
+出现被忽视的方法名称差异：OsFlushDirtyPage GetDirtySize
+出现被忽视的方法名称差异：STATIC fileSize
+出现被忽视的方法名称差异：STATIC len
+出现被忽视的方法名称差异：STATIC buff
+出现被忽视的方法名称差异：STATIC ret
+出现被忽视的方法名称差异：STATIC LosFilePage
+出现被忽视的方法名称差异：STATIC OsCleanPageDirty
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsDoFlushDirtyPage
+出现被忽视的方法名称差异：INT32 VOID
+出现被忽视的方法名称差异：OsFlushDirtyPage OsReleaseFpage
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsDelMapInfo
+出现被忽视的方法名称差异：STATIC mapping
+出现被忽视的方法名称差异：STATIC info
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC INT32
+出现被忽视的方法名称差异：INT32 OsVmmFileFault
+出现被忽视的方法名称差异：STATIC vnode
+出现被忽视的方法名称差异：STATIC newCache
+出现被忽视的方法名称差异：STATIC OsSetPageLocked
+出现被忽视的方法名称差异：STATIC LOS_SpinLockSave
+出现被忽视的方法名称差异：STATIC LOS_SpinLockSave
+出现被忽视的方法名称差异：STATIC vmf
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsFileCacheFlush
+出现被忽视的方法名称差异：STATIC LOS_SpinLockSave
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC VOID
+出现被忽视的方法名称差异：INT32 OsFileCacheRemove
+出现被忽视的方法名称差异：STATIC OsDeletePageCacheLru
+出现被忽视的方法名称差异：STATIC LOS_SpinUnlockRestore
+出现被忽视的方法名称差异：STATIC LosVmFileOps
+出现被忽视的方法名称差异：INT32 g_commVmOps
+出现被忽视的方法名称差异：STATIC STATUS_T
+出现被忽视的方法名称差异：INT32 OsNamedMMap
+出现被忽视的方法名称差异：STATIC file_hold
+出现被忽视的方法名称差异：STATIC file_release
+出现被忽视的方法名称差异：STATIC LosFilePage
+出现被忽视的方法名称差异：STATIC physSeg
+出现被忽视的方法名称差异：STATIC fpage
+
+扫描完成，正在恢复到原始状态...
+已成功恢复仓库状态。
+
+============================================================
+漏洞存在性检测报告：
+
+--- 分支：origin/OpenHarmony-4.1-Release ---
+  [×] 发现漏洞文件：kernel/base/vm/los_vm_filemap.c
+    匹配位置：从第 260 行开始
+    匹配到的代码片段示例:
+    ----------------------------------------
+    | }
+    | 
+    | STATIC INT32 OsFlushDirtyPage(LosFilePage *fpage)
+    | {
+    |     UINT32 ret;
+    |     size_t len;
+    |     char *buff = NULL;
+    |     struct Vnode *vnode = fpage->mapping->host;
+    |     if (vnode == NULL) {
+    ----------------------------------------
+
+--- 分支：origin/OpenHarmony-5.0.3-Release ---
+  [×] 发现漏洞文件：kernel/base/vm/los_vm_filemap.c
+    匹配位置：从第 260 行开始
+    匹配到的代码片段示例:
+    ----------------------------------------
+    | }
+    | 
+    | STATIC INT32 OsFlushDirtyPage(LosFilePage *fpage)
+    | {
+    |     UINT32 ret;
+    |     size_t len;
+    |     char *buff = NULL;
+    |     struct Vnode *vnode = fpage->mapping->host;
+    |     if (vnode == NULL) {
+    ----------------------------------------
+
+--- 分支：origin/OpenHarmony-5.1.0-Release ---
+  [√] 未发现漏洞模式，此分支相对安全。
+
+--- 分支：origin/master ---
+  [√] 未发现漏洞模式，此分支相对安全。

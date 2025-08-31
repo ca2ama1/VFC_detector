@@ -1,0 +1,370 @@
+警告：仓库处于 detached HEAD 状态，指向 4e344de104。将在扫描后恢复。
+成功获取Commit: 635201dcbed7b3320835c32d17ae74c9ca74c20a
+发现 1 个文件差异...
+在文件 drivers/char/mem/src/mem.c 中找到 1 个待分析的模式。
+
+============================================================
+CWE 漏洞分析失败。
+
+分析到 1 个文件存在待分析的模式。开始跨分支扫描...
+
+>>>>>> 正在检查分支: origin/OpenHarmony-4.1-Release <<<<<<
+  正在切换到分支: origin/OpenHarmony-4.1-Release...
+  切换成功。
+出现被忽视的方法名称差异：PADDR_T MemOpen
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T MemClose
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T MemRead
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T buffer
+出现被忽视的方法名称差异：PADDR_T buflen
+出现被忽视的方法名称差异：PADDR_T MemWrite
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T buffer
+出现被忽视的方法名称差异：PADDR_T buflen
+出现被忽视的方法名称差异：PADDR_T MemMap
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T LosVmMapRegion
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T range
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T pgOff
+出现被忽视的方法名称差异：PADDR_T PAGE_SHIFT
+出现被忽视的方法名称差异：PADDR_T VADDR_T
+出现被忽视的方法名称差异：paddr vaddr
+出现被忽视的方法名称差异：pgOff range
+出现被忽视的方法名称差异：PADDR_T vaddr
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T range
+出现被忽视的方法名称差异：PADDR_T base
+出现被忽视的方法名称差异：PADDR_T LosVmSpace
+出现被忽视的方法名称差异：PADDR_T space
+出现被忽视的方法名称差异：PADDR_T LOS_SpaceGet
+出现被忽视的方法名称差异：PADDR_T vaddr
+出现被忽视的方法名称差异：paddr paddrEnd
+出现被忽视的方法名称差异：region paddr
+出现被忽视的方法名称差异：PADDR_T paddrEnd
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T paddrEnd
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T paddrEnd
+出现被忽视的方法名称差异：PADDR_T SYS_MEM_BASE
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T SYS_MEM_END
+出现被忽视的方法名称差异：PADDR_T EINVAL
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T regionFlags
+出现被忽视的方法名称差异：PADDR_T VM_MAP_REGION_FLAG_STRONGLY_ORDERED
+出现被忽视的方法名称差异：PADDR_T space
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T EAGAIN
+出现被忽视的方法名称差异：PADDR_T LOS_ArchMmuMap
+出现被忽视的方法名称差异：PADDR_T space
+出现被忽视的方法名称差异：PADDR_T archMmu
+出现被忽视的方法名称差异：PADDR_T vaddr
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T PAGE_SHIFT
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T regionFlags
+出现被忽视的方法名称差异：PADDR_T EAGAIN
+出现被忽视的方法名称差异：PADDR_T UNUSED
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T UNUSED
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T g_memDevOps
+出现被忽视的方法名称差异：PADDR_T MemOpen
+出现被忽视的方法名称差异：PADDR_T MemClose
+出现被忽视的方法名称差异：PADDR_T MemRead
+出现被忽视的方法名称差异：PADDR_T MemWrite
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T MemMap
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T DevMemRegister
+出现被忽视的方法名称差异：PADDR_T register_driver
+出现被忽视的方法名称差异：PADDR_T g_memDevOps
+
+>>>>>> 正在检查分支: origin/OpenHarmony-5.0.3-Release <<<<<<
+  正在切换到分支: origin/OpenHarmony-5.0.3-Release...
+  切换成功。
+出现被忽视的方法名称差异：PADDR_T MemOpen
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T MemClose
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T MemRead
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T buffer
+出现被忽视的方法名称差异：PADDR_T buflen
+出现被忽视的方法名称差异：PADDR_T MemWrite
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T buffer
+出现被忽视的方法名称差异：PADDR_T buflen
+出现被忽视的方法名称差异：PADDR_T MemMap
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T LosVmMapRegion
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T range
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T pgOff
+出现被忽视的方法名称差异：PADDR_T PAGE_SHIFT
+出现被忽视的方法名称差异：PADDR_T VADDR_T
+出现被忽视的方法名称差异：paddr vaddr
+出现被忽视的方法名称差异：pgOff range
+出现被忽视的方法名称差异：PADDR_T vaddr
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T range
+出现被忽视的方法名称差异：PADDR_T base
+出现被忽视的方法名称差异：PADDR_T LosVmSpace
+出现被忽视的方法名称差异：PADDR_T space
+出现被忽视的方法名称差异：PADDR_T LOS_SpaceGet
+出现被忽视的方法名称差异：PADDR_T vaddr
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T SYS_MEM_BASE
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T SYS_MEM_END
+出现被忽视的方法名称差异：PADDR_T EINVAL
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T regionFlags
+出现被忽视的方法名称差异：PADDR_T VM_MAP_REGION_FLAG_STRONGLY_ORDERED
+出现被忽视的方法名称差异：PADDR_T space
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T EAGAIN
+出现被忽视的方法名称差异：PADDR_T LOS_ArchMmuMap
+出现被忽视的方法名称差异：PADDR_T space
+出现被忽视的方法名称差异：PADDR_T archMmu
+出现被忽视的方法名称差异：PADDR_T vaddr
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T PAGE_SHIFT
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T regionFlags
+出现被忽视的方法名称差异：PADDR_T EAGAIN
+出现被忽视的方法名称差异：PADDR_T UNUSED
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T UNUSED
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T g_memDevOps
+出现被忽视的方法名称差异：PADDR_T MemOpen
+出现被忽视的方法名称差异：PADDR_T MemClose
+出现被忽视的方法名称差异：PADDR_T MemRead
+出现被忽视的方法名称差异：PADDR_T MemWrite
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T MemMap
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T DevMemRegister
+出现被忽视的方法名称差异：PADDR_T register_driver
+出现被忽视的方法名称差异：PADDR_T g_memDevOps
+    - 在 drivers/char/mem/src/mem.c 中找到模式 #1 的 1 个匹配。
+
+>>>>>> 正在检查分支: origin/OpenHarmony-5.1.0-Release <<<<<<
+  正在切换到分支: origin/OpenHarmony-5.1.0-Release...
+  切换成功。
+出现被忽视的方法名称差异：PADDR_T MemOpen
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T MemClose
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T MemRead
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T buffer
+出现被忽视的方法名称差异：PADDR_T buflen
+出现被忽视的方法名称差异：PADDR_T MemWrite
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T buffer
+出现被忽视的方法名称差异：PADDR_T buflen
+出现被忽视的方法名称差异：PADDR_T MemMap
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T LosVmMapRegion
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T range
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T pgOff
+出现被忽视的方法名称差异：PADDR_T PAGE_SHIFT
+出现被忽视的方法名称差异：PADDR_T VADDR_T
+出现被忽视的方法名称差异：paddr vaddr
+出现被忽视的方法名称差异：pgOff range
+出现被忽视的方法名称差异：PADDR_T vaddr
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T range
+出现被忽视的方法名称差异：PADDR_T base
+出现被忽视的方法名称差异：PADDR_T LosVmSpace
+出现被忽视的方法名称差异：PADDR_T space
+出现被忽视的方法名称差异：PADDR_T LOS_SpaceGet
+出现被忽视的方法名称差异：PADDR_T vaddr
+出现被忽视的方法名称差异：paddr paddrEnd
+出现被忽视的方法名称差异：region paddr
+出现被忽视的方法名称差异：PADDR_T paddrEnd
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T paddrEnd
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T paddrEnd
+出现被忽视的方法名称差异：PADDR_T SYS_MEM_BASE
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T SYS_MEM_END
+出现被忽视的方法名称差异：PADDR_T EINVAL
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T regionFlags
+出现被忽视的方法名称差异：PADDR_T VM_MAP_REGION_FLAG_STRONGLY_ORDERED
+出现被忽视的方法名称差异：PADDR_T space
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T EAGAIN
+出现被忽视的方法名称差异：PADDR_T LOS_ArchMmuMap
+出现被忽视的方法名称差异：PADDR_T space
+出现被忽视的方法名称差异：PADDR_T archMmu
+出现被忽视的方法名称差异：PADDR_T vaddr
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T PAGE_SHIFT
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T regionFlags
+出现被忽视的方法名称差异：PADDR_T EAGAIN
+出现被忽视的方法名称差异：PADDR_T UNUSED
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T UNUSED
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T g_memDevOps
+出现被忽视的方法名称差异：PADDR_T MemOpen
+出现被忽视的方法名称差异：PADDR_T MemClose
+出现被忽视的方法名称差异：PADDR_T MemRead
+出现被忽视的方法名称差异：PADDR_T MemWrite
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T MemMap
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T DevMemRegister
+出现被忽视的方法名称差异：PADDR_T register_driver
+出现被忽视的方法名称差异：PADDR_T g_memDevOps
+
+>>>>>> 正在检查分支: origin/master <<<<<<
+  正在切换到分支: origin/master...
+  切换成功。
+出现被忽视的方法名称差异：PADDR_T MemOpen
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T MemClose
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T MemRead
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T buffer
+出现被忽视的方法名称差异：PADDR_T buflen
+出现被忽视的方法名称差异：PADDR_T MemWrite
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T buffer
+出现被忽视的方法名称差异：PADDR_T buflen
+出现被忽视的方法名称差异：PADDR_T MemMap
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T LosVmMapRegion
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T range
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T pgOff
+出现被忽视的方法名称差异：PADDR_T PAGE_SHIFT
+出现被忽视的方法名称差异：PADDR_T VADDR_T
+出现被忽视的方法名称差异：paddr vaddr
+出现被忽视的方法名称差异：pgOff range
+出现被忽视的方法名称差异：PADDR_T vaddr
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T range
+出现被忽视的方法名称差异：PADDR_T base
+出现被忽视的方法名称差异：PADDR_T LosVmSpace
+出现被忽视的方法名称差异：PADDR_T space
+出现被忽视的方法名称差异：PADDR_T LOS_SpaceGet
+出现被忽视的方法名称差异：PADDR_T vaddr
+出现被忽视的方法名称差异：paddr paddrEnd
+出现被忽视的方法名称差异：region paddr
+出现被忽视的方法名称差异：PADDR_T paddrEnd
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T paddrEnd
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T paddrEnd
+出现被忽视的方法名称差异：PADDR_T SYS_MEM_BASE
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T SYS_MEM_END
+出现被忽视的方法名称差异：PADDR_T EINVAL
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T regionFlags
+出现被忽视的方法名称差异：PADDR_T VM_MAP_REGION_FLAG_STRONGLY_ORDERED
+出现被忽视的方法名称差异：PADDR_T space
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T EAGAIN
+出现被忽视的方法名称差异：PADDR_T LOS_ArchMmuMap
+出现被忽视的方法名称差异：PADDR_T space
+出现被忽视的方法名称差异：PADDR_T archMmu
+出现被忽视的方法名称差异：PADDR_T vaddr
+出现被忽视的方法名称差异：PADDR_T paddr
+出现被忽视的方法名称差异：PADDR_T size
+出现被忽视的方法名称差异：PADDR_T PAGE_SHIFT
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T regionFlags
+出现被忽视的方法名称差异：PADDR_T EAGAIN
+出现被忽视的方法名称差异：PADDR_T UNUSED
+出现被忽视的方法名称差异：PADDR_T filep
+出现被忽视的方法名称差异：PADDR_T UNUSED
+出现被忽视的方法名称差异：PADDR_T region
+出现被忽视的方法名称差异：PADDR_T g_memDevOps
+出现被忽视的方法名称差异：PADDR_T MemOpen
+出现被忽视的方法名称差异：PADDR_T MemClose
+出现被忽视的方法名称差异：PADDR_T MemRead
+出现被忽视的方法名称差异：PADDR_T MemWrite
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T MemMap
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T NULL
+出现被忽视的方法名称差异：PADDR_T DevMemRegister
+出现被忽视的方法名称差异：PADDR_T register_driver
+出现被忽视的方法名称差异：PADDR_T g_memDevOps
+
+扫描完成，正在恢复到原始状态...
+已成功恢复仓库状态。
+
+============================================================
+漏洞存在性检测报告：
+
+--- 分支：origin/OpenHarmony-4.1-Release ---
+  [√] 未发现漏洞模式，此分支相对安全。
+
+--- 分支：origin/OpenHarmony-5.0.3-Release ---
+  [×] 发现漏洞文件：drivers/char/mem/src/mem.c
+    匹配位置：从第 60 行开始
+    匹配到的代码片段示例:
+    ----------------------------------------
+    | PADDR_T paddr = region->pgOff << PAGE_SHIFT;
+    |     VADDR_T vaddr = region->range.base;
+    |     LosVmSpace *space = LOS_SpaceGet(vaddr);
+    | 
+    |     if ((paddr >= SYS_MEM_BASE) && (paddr < SYS_MEM_END)) {
+    |         return -EINVAL;
+    |     }
+    | 
+    |     /* Peripheral register memory adds strongly ordered attributes */
+    ----------------------------------------
+
+--- 分支：origin/OpenHarmony-5.1.0-Release ---
+  [√] 未发现漏洞模式，此分支相对安全。
+
+--- 分支：origin/master ---
+  [√] 未发现漏洞模式，此分支相对安全。

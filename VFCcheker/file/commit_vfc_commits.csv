@@ -1,0 +1,36 @@
+sha,author,email,date,message,full_message,vfc_prob
+78db02de2cd1228b2875f76e1a9ad98abd5fb6f4,hw_llm,liu.limin@huawei.com,2024-07-11T16:50:49+08:00,Description: fix CVE-810023952561737728,"Description: fix CVE-810023952561737728
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAAZWU
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.9996923208236694
+50410f66fb790bdfb8bc58408d2773988d66aec3,hw_llm,liu.limin@huawei.com,2024-07-11T16:50:49+08:00,fixed 21087fb from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1195,"fixed 21087fb from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1195
+fixed 78db02d from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1194
+Description: fix CVE-810023952561737728
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAAZWU
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.9996904134750366
+f2c2a2e21f3ad5c2539b32aba78c99463c5aca5a,hw_llm,liu.limin@huawei.com,2024-07-12T15:03:23+08:00,fixed da45d3f from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1197,"fixed da45d3f from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1197
+Description: fix CVE-817641412102197248
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IACJLK
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.9996780157089233
+6241f722f3b9f8eaf6ab1616ee7dacacb36bd550,hw_llm,liu.limin@huawei.com,2024-07-12T15:03:23+08:00,fixed da45d3f from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1197,"fixed da45d3f from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1197
+Description: fix CVE-817641412102197248
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IACJLK
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.9996780157089233
+21087fbc5c39e0e927ae534068aa416547b3115e,hw_llm,liu.limin@huawei.com,2024-07-11T16:50:49+08:00,fixed 78db02d from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1194,"fixed 78db02d from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1194
+Description: fix CVE-810023952561737728
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAAZWU
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.9996680021286011
+da45d3f539c2fa4380862057036576675417bee8,hw_llm,liu.limin@huawei.com,2024-07-12T15:03:23+08:00,Description: fix CVE-817641412102197248,"Description: fix CVE-817641412102197248
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IACJLK
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.9996520280838013

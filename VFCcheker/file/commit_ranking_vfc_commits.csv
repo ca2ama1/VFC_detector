@@ -1,0 +1,742 @@
+sha,author,email,date,message,full_message,vfc_prob
+78db02de2cd1228b2875f76e1a9ad98abd5fb6f4,hw_llm,liu.limin@huawei.com,2024-07-11T16:50:49+08:00,Description: fix CVE-810023952561737728,"Description: fix CVE-810023952561737728
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAAZWU
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.9996923208236694
+50410f66fb790bdfb8bc58408d2773988d66aec3,hw_llm,liu.limin@huawei.com,2024-07-11T16:50:49+08:00,fixed 21087fb from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1195,"fixed 21087fb from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1195
+fixed 78db02d from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1194
+Description: fix CVE-810023952561737728
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAAZWU
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.9996904134750366
+f2c2a2e21f3ad5c2539b32aba78c99463c5aca5a,hw_llm,liu.limin@huawei.com,2024-07-12T15:03:23+08:00,fixed da45d3f from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1197,"fixed da45d3f from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1197
+Description: fix CVE-817641412102197248
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IACJLK
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.9996780157089233
+6241f722f3b9f8eaf6ab1616ee7dacacb36bd550,hw_llm,liu.limin@huawei.com,2024-07-12T15:03:23+08:00,fixed da45d3f from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1197,"fixed da45d3f from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1197
+Description: fix CVE-817641412102197248
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IACJLK
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.9996780157089233
+21087fbc5c39e0e927ae534068aa416547b3115e,hw_llm,liu.limin@huawei.com,2024-07-11T16:50:49+08:00,fixed 78db02d from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1194,"fixed 78db02d from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1194
+Description: fix CVE-810023952561737728
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAAZWU
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.9996680021286011
+da45d3f539c2fa4380862057036576675417bee8,hw_llm,liu.limin@huawei.com,2024-07-12T15:03:23+08:00,Description: fix CVE-817641412102197248,"Description: fix CVE-817641412102197248
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IACJLK
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.9996520280838013
+c9f95fda791a39cf0f977fddd0e7d3bc9bbebea8,石子怡,z15319797139@163.com,2024-11-14T08:38:06+00:00,update shell/full/src/cmds/dmesg.c.,"update shell/full/src/cmds/dmesg.c.
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.2960665225982666
+d731f01ba46be75ee1a168c88db8546f07a36f78,openharmony_ci,120357966@qq.com,2024-12-31T02:58:36+00:00,!1260 【pick 4.1 Release】mem 溢出漏洞修复,"!1260 【pick 4.1 Release】mem 溢出漏洞修复
+Merge pull request !1260 from hw_llm/cherry-pick-1735608052",0.19774334132671356
+20c42a9de5e03f8af68e455e36c9ac86a5e899aa,openharmony_ci,120357966@qq.com,2024-10-12T12:07:26+00:00,!1238 shm pid 入参漏洞修复,"!1238 shm pid 入参漏洞修复
+Merge pull request !1238 from hw_llm/master",0.09211111068725586
+6ac8e246b0efd57a28ea05b6e6973ae0602fe032,hw_llm,liu.limin@huawei.com,2024-12-30T21:43:44+08:00,Description: mem 溢出 漏洞修改,"Description: mem 溢出 漏洞修改
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBEQ73?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.08891750872135162
+d1a583624b8d80bff51904a98ef9d15077d859f5,openharmony_ci,120357966@qq.com,2024-12-31T03:10:15+00:00,!1259 mem 溢出漏洞修复,"!1259 mem 溢出漏洞修复
+Merge pull request !1259 from hw_llm/master",0.07171998172998428
+145bac815cfc22d36a0f772d76fed08581e5a2b7,石子怡,z15319797139@163.com,2025-03-26T09:18:12+00:00,OpenHarmony kernel_liteos_a shm 代码逻辑漏洞,"OpenHarmony kernel_liteos_a shm 代码逻辑漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.06412053853273392
+95ac646044f316cce90e7c8a31630c15a59ec1a1,石子怡,z15319797139@163.com,2025-03-26T09:25:00+00:00,OpenHarmony kernel_liteos_a shm 代码逻辑漏洞,"OpenHarmony kernel_liteos_a shm 代码逻辑漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.06412053853273392
+c973e41474285d995818da8701a963d25b25a7a1,石子怡,z15319797139@163.com,2025-03-26T09:12:22+00:00,OpenHarmony kernel_liteos_a shm 代码逻辑漏洞,"OpenHarmony kernel_liteos_a shm 代码逻辑漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.06412053853273392
+d1288f7776fa4e4f6922244c54b1b644e3cfae9f,石子怡,z15319797139@163.com,2025-03-26T09:27:16+00:00,OpenHarmony kernel_liteos_a shm 代码逻辑漏洞,"OpenHarmony kernel_liteos_a shm 代码逻辑漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.06412053853273392
+5accebc919b694c48343a77c7f3ea56eeb2d4c89,石子怡,z15319797139@163.com,2025-03-26T09:17:29+00:00,OpenHarmony kernel_liteos_a shm 代码逻辑漏洞,"OpenHarmony kernel_liteos_a shm 代码逻辑漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.06412053853273392
+dcc54d14cc3cfb59d716b78ec0194cda06e85f56,石子怡,z15319797139@163.com,2025-03-26T09:15:05+00:00,OpenHarmony kernel_liteos_a shm 代码逻辑漏洞,"OpenHarmony kernel_liteos_a shm 代码逻辑漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.06412053853273392
+2f3389d39daeecc179cffee26a6c8e890e869d77,hw_llm,liu.limin@huawei.com,2024-12-30T21:43:44+08:00,Description: mem 溢出 漏洞修改,"Description: mem 溢出 漏洞修改
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBERYF?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/6ac8e246b0efd57a28ea05b6e6973ae0602fe032>",0.06403102725744247
+39e8548f14886db4e8d60b77339987921d38c653,openharmony_ci,120357966@qq.com,2024-12-28T08:15:20+00:00,!1257 SysEpollWait & SysEpollPWait cpy_from_user 漏洞修改,"!1257 SysEpollWait & SysEpollPWait cpy_from_user 漏洞修改
+Merge pull request !1257 from hw_llm/master",0.05059180036187172
+2076c2987a7da0af2c4bc66d1868345ff49ec9c9,openharmony_ci,120357966@qq.com,2025-04-03T02:41:52+00:00,!1278 OpenHarmony kernel_liteos_a shm 代码逻辑漏洞,"!1278 OpenHarmony kernel_liteos_a shm 代码逻辑漏洞  
+Merge pull request !1278 from 石子怡/OpenHarmony-5.0.2-Release",0.05027656629681587
+979e2b193cbd1b501c732db516b5bbaa6e24bcce,石子怡,z15319797139@163.com,2025-03-26T09:21:26+00:00,update kernel/base/vm/shm.c.,"update kernel/base/vm/shm.c.
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.04970885440707207
+ba25fbc1efde6517d6713b3215995b4777b8e2dc,石子怡,z15319797139@163.com,2025-03-26T09:20:36+00:00,update kernel/base/vm/shm.c.,"update kernel/base/vm/shm.c.
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.04970885440707207
+44b57d76dfeebc19f69a0e8faa5e6ee60e3c40ef,openharmony_ci,120357966@qq.com,2024-12-28T08:29:04+00:00,!1258 【pick 4.1】SysEpollWait & SysEpollPWait cpy_from_user 漏洞修改,"!1258 【pick 4.1】SysEpollWait & SysEpollPWait cpy_from_user 漏洞修改
+Merge pull request !1258 from hw_llm/cherry-pick-1735349678",0.04481590911746025
+c4f2c05244f21e5d25872d50fe9ee4ca097a157f,openharmony_ci,120357966@qq.com,2025-04-03T02:40:12+00:00,!1279 OpenHarmony kernel_liteos_a shm 代码逻辑漏洞,"!1279 OpenHarmony kernel_liteos_a shm 代码逻辑漏洞  
+Merge pull request !1279 from 石子怡/OpenHarmony-5.0.3-Release",0.043734095990657806
+b273ddc98dae8dbac7b399d55af04e4b6351244d,openharmony_ci,120357966@qq.com,2024-11-30T01:38:27+00:00,!1249 修复vm shellcmd pid 越界访问 LosProcessCB bug,"!1249 修复vm shellcmd pid 越界访问 LosProcessCB bug
+Merge pull request !1249 from hw_llm/master",0.04249453544616699
+a6ae1cbdf73ff75dcd0c2bb9f7e370780da91000,石子怡,z15319797139@163.com,2024-11-14T08:49:36+00:00,update shell/full/src/cmds/dmesg.c.,"update shell/full/src/cmds/dmesg.c.
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.040978092700242996
+b7a35ec4bb8482e7761b97142f161f852145abd7,openharmony_ci,120357966@qq.com,2024-07-12T08:18:50+00:00,!1196 【同步4.1 release分支】解决UAF问题,"!1196 【同步4.1 release分支】解决UAF问题
+Merge pull request !1196 from hw_llm/cherry-pick-1720749987",0.039504386484622955
+017822c2fd4b3af9d5e24973d7f260c0d500d099,openharmony_ci,120357966@qq.com,2024-08-21T12:41:57+00:00,!1211 liteos_a 内核shell 漏洞修复,"!1211 liteos_a 内核shell 漏洞修复
+Merge pull request !1211 from hw_llm/cherry-pick-1724202574",0.03803139552474022
+c754baab1ec97cff1b3aaa15fcc18a835f7a9d41,openharmony_ci,120357966@qq.com,2024-07-12T02:22:47+00:00,!1195 【挑单 到4.0release分支】UAF漏洞修改,"!1195 【挑单 到4.0release分支】UAF漏洞修改
+Merge pull request !1195 from hw_llm/cherry-pick-1720705058",0.037888236343860626
+0633bfd894743b2646bb103631e58ea569d23b10,openharmony_ci,120357966@qq.com,2024-11-30T03:07:07+00:00,!1250 【pick 4.0 Release】修复vm shellcmd pid 越界访问 LosProcessCB bug,"!1250 【pick 4.0 Release】修复vm shellcmd pid 越界访问 LosProcessCB bug
+Merge pull request !1250 from hw_llm/cherry-pick-1732882689",0.03492983058094978
+9efd86ef2d43f540b004cbb47d8ba5a8e0c3d90c,openharmony_ci,120357966@qq.com,2024-11-30T03:07:27+00:00,!1251 【pick 4.1 Release】修复vm shellcmd pid 越界访问 LosProcessCB bug,"!1251 【pick 4.1 Release】修复vm shellcmd pid 越界访问 LosProcessCB bug
+Merge pull request !1251 from hw_llm/cherry-pick-1732882817",0.034521181136369705
+8f839c94e7d730b036cb28c6ba9953a4889b3832,openharmony_ci,120357966@qq.com,2025-04-03T02:41:29+00:00,!1277 OpenHarmony kernel_liteos_a shm 代码逻辑漏洞,"!1277 OpenHarmony kernel_liteos_a shm 代码逻辑漏洞  
+Merge pull request !1277 from 石子怡/OpenHarmony-4.1-Release",0.03322330489754677
+16a54f36bb0d406ec491f1442b1c7f1347ad04cb,openharmony_ci,120357966@qq.com,2024-08-21T12:41:38+00:00,!1210 liteos_a 内核shell 漏洞修复,"!1210 liteos_a 内核shell 漏洞修复
+Merge pull request !1210 from hw_llm/cherry-pick-1724202463",0.03149699419736862
+4b34b96700fb4995bb672f8006978a81c1d77282,openharmony_ci,120357966@qq.com,2024-10-12T12:49:43+00:00,!1240 【Pick 4.1 Release】shm pid 入参漏洞修复,"!1240 【Pick 4.1 Release】shm pid 入参漏洞修复
+Merge pull request !1240 from hw_llm/cherry-pick-1728735200",0.031097445636987686
+97f533f4fa9a5bba196751b3d315a7fa5c884c3a,openharmony_ci,120357966@qq.com,2024-11-15T02:06:02+00:00,!1247 【pick 4.1 Release】修复dmesg输出log到任意文件安全风险,"!1247 【pick 4.1 Release】修复dmesg输出log到任意文件安全风险
+Merge pull request !1247 from hw_llm/cherry-pick-1731571848",0.030447833240032196
+da99f77087683e3a7f069a26e285b8f6257fb1f7,openharmony_ci,120357966@qq.com,2024-11-15T02:05:39+00:00,!1246 【pick 4.0 Release】修复dmesg输出log到任意文件安全风险,"!1246 【pick 4.0 Release】修复dmesg输出log到任意文件安全风险
+Merge pull request !1246 from hw_llm/cherry-pick-1731571709",0.029208937659859657
+148fcf22abbf84a953b47497d9eeaab464301ebc,openharmony_ci,120357966@qq.com,2025-04-03T02:15:11+00:00,!1276 OpenHarmony kernel_liteos_a shm 代码逻辑漏洞,"!1276 OpenHarmony kernel_liteos_a shm 代码逻辑漏洞  
+Merge pull request !1276 from 石子怡/master",0.026176920160651207
+d42922e488a123897f7ebbe980f2889edc6dd8a7,openharmony_ci,120357966@qq.com,2024-10-14T01:21:10+00:00,!1239 【Pick 4.0 Release】shm pid 入参漏洞修复,"!1239 【Pick 4.0 Release】shm pid 入参漏洞修复
+Merge pull request !1239 from hw_llm/cherry-pick-1728735072",0.023688726127147675
+0f99cf88dcaba06433ea9ffc401206e46473e032,openharmony_ci,120357966@qq.com,2025-06-09T07:50:32+00:00,!1297 Description: kernel_liteos_a timer_delete RaceConditions Bug,"!1297 Description: kernel_liteos_a timer_delete RaceConditions Bug
+Merge pull request !1297 from 杨庞源/OpenHarmony-5.0.2-Release",0.02243831194937229
+066a984a9762c5f4c75defbe66f9d9649b1c3ce7,hw_llm,liu.limin@huawei.com,2024-10-12T17:53:01+08:00,Description: shm pid入参 漏洞修复,"Description: shm pid入参 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAWOD7
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/14c79fc921db176c8c7ae87a917fa50217e664ac>",0.020817946642637253
+87f5c035ed0ea4c553f11b16419511cf575762b4,hw_llm,liu.limin@huawei.com,2024-10-12T17:53:01+08:00,Description: shm pid入参 漏洞修复,"Description: shm pid入参 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAWOD6
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/14c79fc921db176c8c7ae87a917fa50217e664ac>",0.020514532923698425
+de2a42ec2d170f1b8219e27f88e6c0f171975b64,openharmony_ci,120357966@qq.com,2025-06-09T07:53:04+00:00,!1298 Description: kernel_liteos_a timer_delete RaceConditions Bug,"!1298 Description: kernel_liteos_a timer_delete RaceConditions Bug
+Merge pull request !1298 from 杨庞源/OpenHarmony-5.0.3-Release",0.020196842029690742
+14c79fc921db176c8c7ae87a917fa50217e664ac,hw_llm,liu.limin@huawei.com,2024-10-12T17:53:01+08:00,Description: shm pid入参 漏洞修复,"Description: shm pid入参 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAWM6R
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.016806207597255707
+c908505e28f19b3f7fdc7635253da564058bb5c9,石子怡,z15319797139@163.com,2025-03-26T09:41:10+00:00,OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞,"OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.016621945425868034
+bff2ce8e886ab7b82580a11059f8ba1dc53880f5,石子怡,z15319797139@163.com,2025-03-26T09:34:42+00:00,OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞,"OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.016621945425868034
+e844b9182e1cb23fd5ec2ee4ccb2266b6e833229,石子怡,z15319797139@163.com,2025-03-26T09:41:22+00:00,OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞,"OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.016621945425868034
+0215c2cb2a6db2aa10de0dd0917c16e63e4c49ec,石子怡,z15319797139@163.com,2025-03-26T09:41:28+00:00,OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞,"OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.016621945425868034
+02abd34ad29301fdd3ade31fe35c62033e732007,石子怡,z15319797139@163.com,2024-10-15T07:47:13+00:00,update fs/vfs/epoll/fs_epoll.c.,"update fs/vfs/epoll/fs_epoll.c.
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.0164767038077116
+49ad79f55e56da535ad9b1c4f9fa22d26e89dd2f,openharmony_ci,120357966@qq.com,2024-07-11T13:32:59+00:00,!1194 解决UAF问题,"!1194 解决UAF问题
+Merge pull request !1194 from hw_llm/master",0.015906674787402153
+ef1b6f9cde15e108d5cc55daf3a3d09d574d159f,openharmony_ci,120357966@qq.com,2024-08-20T13:58:56+00:00,!1209 liteos_a 内核shell 漏洞修复,"!1209 liteos_a 内核shell 漏洞修复
+Merge pull request !1209 from hw_llm/master",0.015598447062075138
+fbbc7f3339e185ee7049e9d1506fe9583fc445ef,openharmony_ci,120357966@qq.com,2024-11-15T01:51:20+00:00,!1248 修复dmesg输出log到任意文件安全风险,"!1248 修复dmesg输出log到任意文件安全风险
+Merge pull request !1248 from 石子怡/master",0.015100175514817238
+c2e75eebfbcbad8f6900130cb643d82fba88ccce,石子怡,z15319797139@163.com,2025-03-26T09:05:20+00:00,OpenHarmony kernel_liteos_a liteipc UAF漏洞,"OpenHarmony kernel_liteos_a liteipc UAF漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.014863397926092148
+1d69df3a22dbc954028099f415157fc4acd70f89,石子怡,z15319797139@163.com,2025-03-26T08:59:53+00:00,OpenHarmony kernel_liteos_a liteipc UAF漏洞,"OpenHarmony kernel_liteos_a liteipc UAF漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.014863397926092148
+063364168e248b6dc50dce7ecd6aa449eca11729,石子怡,z15319797139@163.com,2025-03-26T08:50:56+00:00,OpenHarmony kernel_liteos_a liteipc UAF漏洞,"OpenHarmony kernel_liteos_a liteipc UAF漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.014863397926092148
+9a2e59d31f38ef05f39582f2c2adb785d815d473,石子怡,z15319797139@163.com,2025-03-26T08:55:19+00:00,OpenHarmony kernel_liteos_a liteipc UAF漏洞,"OpenHarmony kernel_liteos_a liteipc UAF漏洞	
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.014863397926092148
+4a546b563f4be0a94e3260585ba538409fea412a,openharmony_ci,120357966@qq.com,2025-04-03T02:40:59+00:00,!1281 OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞,"!1281 OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞   
+Merge pull request !1281 from 石子怡/OpenHarmony-5.0.3-Release",0.014494149945676327
+80900d8ffadc44d4de680272fb7853e82052eb4b,openharmony_ci,120357966@qq.com,2025-04-03T02:39:34+00:00,!1282 OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞,"!1282 OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞   
+Merge pull request !1282 from 石子怡/OpenHarmony-4.1-Release",0.013227108865976334
+de87f53cca2c073c415d3a90f67965468fd84114,石子怡,z15319797139@163.com,2024-10-15T07:47:13+00:00,update fs/vfs/epoll/fs_epoll.c.,"update fs/vfs/epoll/fs_epoll.c.
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAXDG6
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/02abd34ad29301fdd3ade31fe35c62033e732007>",0.012312100268900394
+5c9ad095bfc3745df76e997237ab7b8f615c7c1d,y30015170,1169998606@qq.com,2025-05-29T10:44:37+08:00,Description: kernel_liteos_a timer_delete RaceConditions Bug,"Description: kernel_liteos_a timer_delete RaceConditions Bug
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/ICBARY
+Feature or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: y30015170 <1169998606@qq.com>",0.012163900770246983
+4d6c82c513575846029d2ff6051c79b1cc89e08a,openharmony_ci,120357966@qq.com,2025-04-03T02:42:49+00:00,!1274 OpenHarmony kernel_liteos_a liteipc UAF漏洞,"!1274 OpenHarmony kernel_liteos_a liteipc UAF漏洞   
+Merge pull request !1274 from 石子怡/OpenHarmony-5.0.2-Release",0.011824024841189384
+65a8243fb1334495582a008df4219d539f4cf829,石子怡,z15319797139@163.com,2024-10-15T07:47:13+00:00,update fs/vfs/epoll/fs_epoll.c.,"update fs/vfs/epoll/fs_epoll.c.
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAXDGA
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/02abd34ad29301fdd3ade31fe35c62033e732007>",0.011767102405428886
+786a12855a3b1d8edaa2d2d4ccbc15c238751509,openharmony_ci,120357966@qq.com,2025-05-30T03:00:14+00:00,!1291 Description: kernel_liteos_a timer_delete RaceConditions Bug,"!1291 Description: kernel_liteos_a timer_delete RaceConditions Bug
+Merge pull request !1291 from 杨庞源/master",0.011484879069030285
+572022f542a2b37eee228629a52503f460d3d3d3,openharmony_ci,120357966@qq.com,2024-09-29T11:50:43+00:00,!1234 mem 漏洞修复,"!1234 mem 漏洞修复
+Merge pull request !1234 from hw_llm/cherry-pick-1727599316",0.011295474134385586
+bd623fd5e7dfcb1a11ae53d0bb6fe88c190869fd,openharmony_ci,120357966@qq.com,2025-04-03T02:38:59+00:00,!1283 OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞,"!1283 OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞   
+Merge pull request !1283 from 石子怡/OpenHarmony-5.0.2-Release",0.011279035359621048
+4e344de104fa1a8756d5d2e0f3ec227d1c69f6ad,openharmony_ci,120357966@qq.com,2025-04-03T02:42:26+00:00,!1273 OpenHarmony kernel_liteos_a liteipc UAF漏洞,"!1273 OpenHarmony kernel_liteos_a liteipc UAF漏洞   
+Merge pull request !1273 from 石子怡/OpenHarmony-4.1-Release",0.011055408045649529
+dc523053cdd1dea7023d08b30d169c708896461c,hw_llm,liu.limin@huawei.com,2024-08-23T16:28:32+08:00,cherry pick 5e3a8f1 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1218,"cherry pick 5e3a8f1 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1218
+Description: syscall SysEpollWait 执行漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IALYB5?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.01081315241754055
+825a63cc01176fd8d044e9bade1a4b24a90dd206,hw_llm,liu.limin@huawei.com,2024-08-23T16:28:32+08:00,cherry pick 5e3a8f1 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1218,"cherry pick 5e3a8f1 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1218
+Description: syscall SysEpollWait 执行漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IALYB5?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.01081315241754055
+ff341ba380f0e1daef05af51d2258d63f5bef440,openharmony_ci,120357966@qq.com,2024-09-29T10:29:24+00:00,!1233 mem 漏洞修复,"!1233 mem 漏洞修复
+Merge pull request !1233 from hw_llm/cherry-pick-1727599208",0.010755822993814945
+bed830a1c82a5b9be342d8c3d98eb959bfe658bc,openharmony_ci,120357966@qq.com,2025-04-03T03:15:35+00:00,!1275 OpenHarmony kernel_liteos_a liteipc UAF漏洞,"!1275 OpenHarmony kernel_liteos_a liteipc UAF漏洞   
+Merge pull request !1275 from 石子怡/OpenHarmony-5.0.3-Release",0.009807362221181393
+a502da19c0c3f9b355da3219ee54a2cd635ed456,hw_llm,liu.limin@huawei.com,2024-08-23T17:33:57+08:00,cherry pick b58c6d4 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1221,"cherry pick b58c6d4 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1221
+Description: OsShellCmdTskInfoGet 内存泄露漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAM34B?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.008907652460038662
+38fca35ff2cb2c32cade0269e8112e781fa17f2e,hw_llm,liu.limin@huawei.com,2024-08-23T17:33:57+08:00,cherry pick b58c6d4 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1221,"cherry pick b58c6d4 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1221
+Description: OsShellCmdTskInfoGet 内存泄露漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAM34B?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.008907652460038662
+d16c2caefb9eeac581ae9a40c91a47c99bf4415e,y30015170,1169998606@qq.com,2025-05-28T11:21:05+08:00,Description: kernel_liteos_a kill RaceConditions Bug,"Description: kernel_liteos_a kill RaceConditions Bug
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/ICB2OP
+Feature or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: y30015170 <1169998606@qq.com>",0.00853730458766222
+80f1868e980b9b59db03b807cd0550bf34970576,hw_llm,liu.limin@huawei.com,2024-12-27T10:41:24+08:00,Description: SysEpollWait & SysEpollPWait cpy_from_user 漏洞修改,"Description: SysEpollWait & SysEpollPWait cpy_from_user 漏洞修改
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBEB48
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/5ad72578c1f247771a46a1cd0e81e0bfe443f9dc>",0.008431929163634777
+69820e1ea9c5ab0eaae5b1c70bb90b89eaa043f5,hw_llm,liu.limin@huawei.com,2024-11-14T16:05:07+08:00,Description: 修复dmesg 操作文件漏洞，只允许dmesg输出文件到/temp/目录下,"Description: 修复dmesg 操作文件漏洞，只允许dmesg输出文件到/temp/目录下
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IB4D0E?from=project-issue
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/b1ffcf37d4bb1b059d2feeea6f4b88593a91d39e>",0.00795714557170868
+49818884681b3d2adca5d292fd1ae8d553949b1d,openharmony_ci,120357966@qq.com,2024-09-24T01:12:32+00:00,!1227 【同步4.0 release分支】VM Map 添加LITEIPC保护,"!1227 【同步4.0 release分支】VM Map 添加LITEIPC保护
+Merge pull request !1227 from hw_llm/cherry-pick-1727059032",0.0076348623260855675
+0d1635757f19cb29ac6526cbcf5491fec5b103f8,openharmony_ci,120357966@qq.com,2024-10-15T14:09:01+00:00,!1242 fs_epoll竞争漏洞修复,"!1242 fs_epoll竞争漏洞修复
+Merge pull request !1242 from 石子怡/master",0.007438476663082838
+eb485332cdd08c531c9ab6375153b68d517d7971,hw_llm,liu.limin@huawei.com,2024-11-14T16:05:07+08:00,Description: 修复dmesg 操作文件漏洞，只允许dmesg输出文件到/temp/目录下,"Description: 修复dmesg 操作文件漏洞，只允许dmesg输出文件到/temp/目录下
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IB4D09?from=project-issue
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/b1ffcf37d4bb1b059d2feeea6f4b88593a91d39e>",0.00730382464826107
+4577df770d52f4955e0f5fbe8e267ff2990fa4fc,openharmony_ci,120357966@qq.com,2025-05-28T13:04:07+00:00,!1290 Description: kernel_liteos_a kill RaceConditions Bug,"!1290 Description: kernel_liteos_a kill RaceConditions Bug
+Merge pull request !1290 from 杨庞源/master",0.007275336887687445
+020edcb1b71b55da904eea420bfddb385556997a,openharmony_ci,120357966@qq.com,2024-09-24T08:30:39+00:00,!1231 【Pick 4.1 Release】liteipc 解决 释放后使用问题,"!1231 【Pick 4.1 Release】liteipc 解决 释放后使用问题
+Merge pull request !1231 from hw_llm/cherry-pick-1727158800",0.007101072929799557
+898e71eb54f189df9587bc857595b90f0ad0df81,openharmony_ci,120357966@qq.com,2024-09-24T01:50:14+00:00,!1228 【同步4.1 release分支】VM Map 添加LITEIPC保护,"!1228 【同步4.1 release分支】VM Map 添加LITEIPC保护
+Merge pull request !1228 from hw_llm/cherry-pick-1727060660",0.007014571689069271
+f7741cdcbff09007fd7cacafe788a91afa413580,openharmony_ci,120357966@qq.com,2025-06-09T07:51:18+00:00,!1296 Description: kernel_liteos_a kill RaceConditions Bug,"!1296 Description: kernel_liteos_a kill RaceConditions Bug
+Merge pull request !1296 from 杨庞源/OpenHarmony-5.0.2-Release",0.007009249646216631
+5ad72578c1f247771a46a1cd0e81e0bfe443f9dc,hw_llm,liu.limin@huawei.com,2024-12-27T10:41:24+08:00,Description: SysEpollWait & SysEpollPWait cpy_from_user 漏洞修改,"Description: SysEpollWait & SysEpollPWait cpy_from_user 漏洞修改
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBE186?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.00671293493360281
+727ea992676381e5991846edc1e74bfb1c5fa791,y30015170,1169998606@qq.com,2025-05-28T11:21:05+08:00,Description: kernel_liteos_a kill RaceConditions Bug,"Description: kernel_liteos_a kill RaceConditions Bug
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/ICC23O
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: y30015170 <1169998606@qq.com>",0.006686205975711346
+d8c77e52b7c8ace32d34a7f178b2674944d732e3,y30015170,1169998606@qq.com,2025-05-28T11:21:05+08:00,Description: kernel_liteos_a kill RaceConditions Bug,"Description: kernel_liteos_a kill RaceConditions Bug
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/ICC23X
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: y30015170 <1169998606@qq.com>",0.006495718378573656
+446aad464275d121dea2ee95fef020cd3917874a,y30015170,1169998606@qq.com,2025-05-29T10:44:37+08:00,Description: kernel_liteos_a timer_delete RaceConditions Bug,"Description: kernel_liteos_a timer_delete RaceConditions Bug
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/ICC279
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: y30015170 <1169998606@qq.com>",0.006360923871397972
+f811105c3873bf899dded31cf022ff49137db3c1,openharmony_ci,120357966@qq.com,2024-09-24T08:28:57+00:00,!1230 【Pick 4.0 Release】liteipc 解决 释放后使用问题,"!1230 【Pick 4.0 Release】liteipc 解决 释放后使用问题
+Merge pull request !1230 from hw_llm/cherry-pick-1727158580",0.006343855056911707
+f7094187d106a23e83001da2020b9d4c5d0d00f9,y30015170,1169998606@qq.com,2025-05-29T10:44:37+08:00,Description: kernel_liteos_a timer_delete RaceConditions Bug,"Description: kernel_liteos_a timer_delete RaceConditions Bug
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/ICC27J
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: y30015170 <1169998606@qq.com>",0.006300204433500767
+4776acfe0895f0cfe19314cd4cab31d84a60c300,hw_llm,liu.limin@huawei.com,2024-11-29T20:15:14+08:00,Description: 修复vm shellcmd pid 越界访问 LosProcessCB,"Description: 修复vm shellcmd pid 越界访问 LosProcessCB
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IB7L1D
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.006115279626101255
+c04a30e64ac40e6094a00bf8b098197537344b56,openharmony_ci,120357966@qq.com,2025-06-09T07:51:58+00:00,!1295 Description: kernel_liteos_a kill RaceConditions Bug,"!1295 Description: kernel_liteos_a kill RaceConditions Bug
+Merge pull request !1295 from 杨庞源/OpenHarmony-5.0.3-Release",0.0061004990711808205
+88cfb3de9d54c2a649f4878725a52eddf96a2953,openharmony_ci,120357966@qq.com,2024-09-29T09:12:37+00:00,!1232 mem 漏洞修复,"!1232 mem 漏洞修复
+Merge pull request !1232 from hw_llm/master",0.006079026032239199
+439633c93b8dea6b6d8012fc2dcd04b56d9f11ae,hw_llm,liu.limin@huawei.com,2024-09-29T16:09:45+08:00,Description: mem 漏洞修复,"Description: mem 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAUJWK
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/4bb465f9af0af618c9d4b24b82ede7dd9f12faa6>",0.005637090187519789
+fef87f5da86ea491bfa521f12a370e28ae415bb8,hw_llm,liu.limin@huawei.com,2024-08-19T11:04:32+08:00,cherry pick bca2645 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1210,"cherry pick bca2645 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1210
+cherry pick 2ac53f2 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1209
+Description: shell lk 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAKVF0
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.005333608947694302
+63f261d2399339ec829a490b73cbf92964094bf3,石子怡,z15319797139@163.com,2024-10-15T07:53:37+00:00,update fs/vfs/epoll/fs_epoll.c.,"update fs/vfs/epoll/fs_epoll.c.
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.005221988074481487
+03a2bf2c6873a182f46b544ab956a8acc338076c,hw_llm,liu.limin@huawei.com,2024-08-15T09:37:09+08:00,cherry pick d958a85 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1202,"cherry pick d958a85 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1202
+Description: 解决容器编译报错问题
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/I9TEYD
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.005094374995678663
+1064329c3ade10606b52f1dd2fe97c4755f9179e,hw_llm,liu.limin@huawei.com,2024-08-15T09:37:09+08:00,cherry pick d958a85 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1202,"cherry pick d958a85 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1202
+Description: 解决容器编译报错问题
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/I9TEYD
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.005094374995678663
+c099376d697eb3787d2c9583027fd5fc63bb0b20,石子怡,z15319797139@163.com,2024-10-15T08:15:43+00:00,update fs/vfs/epoll/fs_epoll.c.,"update fs/vfs/epoll/fs_epoll.c.
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.005089655052870512
+09bcabfaf6f91945d3b3e1e070ffb5caed30acf2,openharmony_ci,120357966@qq.com,2024-09-20T09:53:50+00:00,!1225 VM Map 添加LITEIPC保护,"!1225 VM Map 添加LITEIPC保护
+Merge pull request !1225 from hw_llm/master",0.005069024860858917
+20820bd0f751f37e6e10f34b138da961d4491a3d,openharmony_ci,120357966@qq.com,2024-08-26T12:29:32+00:00,!1223 OsShellCmdTskInfoGet 内存泄露漏洞修复,"!1223 OsShellCmdTskInfoGet 内存泄露漏洞修复
+Merge pull request !1223 from hw_llm/cherry-pick-1724405916",0.005016080569475889
+898e71eb54f189df9587bc857595b90f0ad0df81,openharmony_ci,120357966@qq.com,2024-09-24T01:50:14+00:00,!1228 【同步4.1 release分支】VM Map 添加LITEIPC保护,"!1228 【同步4.1 release分支】VM Map 添加LITEIPC保护
+Merge pull request !1228 from hw_llm/cherry-pick-1727060660",0.004697723314166069
+571ccbe8d716ae8928e8a13df9468120d18ce89f,openharmony_ci,120357966@qq.com,2024-08-26T12:29:17+00:00,!1222 OsShellCmdTskInfoGet 内存泄露漏洞修复,"!1222 OsShellCmdTskInfoGet 内存泄露漏洞修复
+Merge pull request !1222 from hw_llm/cherry-pick-1724405807",0.004696547985076904
+0af868326d4aa968a92c5e78498a73956896e9ba,openharmony_ci,120357966@qq.com,2025-01-17T13:09:57+00:00,!1266 OsCopyUserParam kernel 空间操作限制,"!1266 OsCopyUserParam kernel 空间操作限制
+Merge pull request !1266 from hw_llm/OpenHarmony-4.1-Release",0.00467244628816843
+663679bf83b197d862518c392f2112c983482f6e,openharmony_ci,120357966@qq.com,2025-01-17T09:58:29+00:00,!1264 OsCopyUserParam kernel 空间操作限制,"!1264 OsCopyUserParam kernel 空间操作限制
+Merge pull request !1264 from hw_llm/master",0.004541961941868067
+437c6530da497da7a9f05e419b338be5b1b38758,openharmony_ci,120357966@qq.com,2024-08-26T01:29:37+00:00,!1221 OsShellCmdTskInfoGet 内存泄露漏洞修复,"!1221 OsShellCmdTskInfoGet 内存泄露漏洞修复
+Merge pull request !1221 from hw_llm/master",0.004531842190772295
+5e3a8f11b44885829de18326da6a647dad158b93,hw_llm,liu.limin@huawei.com,2024-08-23T16:28:32+08:00,Description: syscall SysEpollWait 执行漏洞修复,"Description: syscall SysEpollWait 执行漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IALYB5?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.004522395320236683
+49818884681b3d2adca5d292fd1ae8d553949b1d,openharmony_ci,120357966@qq.com,2024-09-24T01:12:32+00:00,!1227 【同步4.0 release分支】VM Map 添加LITEIPC保护,"!1227 【同步4.0 release分支】VM Map 添加LITEIPC保护
+Merge pull request !1227 from hw_llm/cherry-pick-1727059032",0.004489976447075605
+98440e9211639406ddec7236d26d0adaa3878000,openharmony_ci,120357966@qq.com,2025-01-18T11:01:21+00:00,!1267 OsCopyUserParam kernel 空间操作限制,"!1267 OsCopyUserParam kernel 空间操作限制
+Merge pull request !1267 from hw_llm/OpenHarmony-5.0.2-Release",0.004480855073779821
+4e62fec9833837f4eac53e1b0475c8099b6bd489,hw_llm,liu.limin@huawei.com,2024-05-10T20:05:39+08:00,fixed dfc582a from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1190,"fixed dfc582a from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1190
+fixed dbbb96c from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1189
+Description: liteos_a 内核竞争漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/I9OACM
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.004476647358387709
+94ac2627be20cfd161285c80e3d491127e242da6,openharmony_ci,120357966@qq.com,2025-04-03T02:16:29+00:00,!1280 OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞,"!1280 OpenHarmony kernel_liteos_a OsCopyUser 条件竞争漏洞   
+Merge pull request !1280 from 石子怡/master",0.004410077817738056
+635201dcbed7b3320835c32d17ae74c9ca74c20a,hw_llm,liu.limin@huawei.com,2024-09-29T16:09:45+08:00,Description: mem 漏洞修复,"Description: mem 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAUJWI
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/4bb465f9af0af618c9d4b24b82ede7dd9f12faa6>",0.0044057839550077915
+648124ac19a2e4ab102b36f73c23ba41500da0f5,openharmony_ci,120357966@qq.com,2024-07-20T03:31:59+00:00,!1199 整数溢出漏洞修复,"!1199 整数溢出漏洞修复
+Merge pull request !1199 from hw_llm/cherry-pick-1721050636",0.004385374952107668
+d1d5c352df5cc7b426a81b600083d681e897d344,openharmony_ci,120357966@qq.com,2024-08-23T10:40:48+00:00,!1219 SysEpollWait 系统调用使用正确长度。,"!1219 SysEpollWait 系统调用使用正确长度。
+Merge pull request !1219 from hw_llm/cherry-pick-1724401918",0.004381521139293909
+ef7610470ce4197d6083fbcf206f42f589cba8e5,openharmony_ci,120357966@qq.com,2024-09-24T01:11:34+00:00,!1229 liteipc 解决 释放后使用问题,"!1229 liteipc 解决 释放后使用问题
+Merge pull request !1229 from hw_llm/master",0.004223180934786797
+bca26453389d2f1fb48701cc4d73321f52089f45,hw_llm,liu.limin@huawei.com,2024-08-19T11:04:32+08:00,cherry pick 2ac53f2 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1209,"cherry pick 2ac53f2 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1209
+Description: shell lk 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAKVF0
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.004064922221004963
+20cf25498f5e7af5c53085167e89e2c7d32260cf,openharmony_ci,120357966@qq.com,2024-08-23T10:39:01+00:00,!1220 SysEpollWait 系统调用使用正确长度。,"!1220 SysEpollWait 系统调用使用正确长度。
+Merge pull request !1220 from hw_llm/cherry-pick-1724401985",0.004014171194285154
+1bb7968775c4090e2ade83ce46743b5050f743a5,hw_llm,liu.limin@huawei.com,2024-08-21T20:57:40+08:00,cherry pick 0c53eca from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1213,"cherry pick 0c53eca from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1213
+cherry pick b22a7c2 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1212
+Description: console read 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IALLNX?from=project-issue
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0037965653464198112
+4bb465f9af0af618c9d4b24b82ede7dd9f12faa6,hw_llm,liu.limin@huawei.com,2024-09-29T16:09:45+08:00,Description: mem 漏洞修复,"Description: mem 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAUJDR
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0036498585250228643
+30d6d3c088f57f6a1494f196c0ad4c4b65632638,openharmony_ci,120357966@qq.com,2024-10-16T04:01:14+00:00,!1244 【Pick 4.1 Release】fs_epoll竞争漏洞修复,"!1244 【Pick 4.1 Release】fs_epoll竞争漏洞修复
+Merge pull request !1244 from hw_llm/cherry-pick-1729040743",0.00351095967926085
+0c53eca08926955c607ec657795e9352bfa69757,hw_llm,liu.limin@huawei.com,2024-08-21T20:57:40+08:00,cherry pick b22a7c2 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1212,"cherry pick b22a7c2 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1212
+Description: console read 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IALLNX?from=project-issue
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.003383551724255085
+6e9d252eef388a399adde2f78d199ad1c15497a3,openharmony_ci,120357966@qq.com,2024-12-26T13:02:12+00:00,!1253 修复epoll_wait 条件竞争漏洞,"!1253 修复epoll_wait 条件竞争漏洞
+Merge pull request !1253 from hw_llm/master",0.0033798953518271446
+eff092db203e8f7506b761ba70401a0d42c6380a,openharmony_ci,120357966@qq.com,2025-04-03T02:13:21+00:00,!1272 OpenHarmony kernel_liteos_a liteipc UAF漏洞,"!1272 OpenHarmony kernel_liteos_a liteipc UAF漏洞   
+Merge pull request !1272 from 石子怡/master",0.0033355008345097303
+07be40d1f35b72fb6b1fd423618d208070feef07,hw_llm,liu.limin@huawei.com,2024-09-20T16:42:19+08:00,Description: VM Map 添加LiteIPC 保护,"Description: VM Map 添加LiteIPC 保护
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IASJLX
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/75af9e28d9e92398f71e2f884c53a2745e7cd097>",0.0032998647075146437
+2ac53f2c001e1122d8acc93af27f8d470fc1779a,hw_llm,liu.limin@huawei.com,2024-08-19T11:04:32+08:00,Description: shell lk 漏洞修复,"Description: shell lk 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAKVF0
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.003252717200666666
+09bcabfaf6f91945d3b3e1e070ffb5caed30acf2,openharmony_ci,120357966@qq.com,2024-09-20T09:53:50+00:00,!1225 VM Map 添加LITEIPC保护,"!1225 VM Map 添加LITEIPC保护
+Merge pull request !1225 from hw_llm/master",0.003240428166463971
+cc34b8f00e5bba496bbf383952ad87b5d7dfc709,openharmony_ci,120357966@qq.com,2024-07-15T13:45:01+00:00,!1197 整数溢出漏洞修复,"!1197 整数溢出漏洞修复
+Merge pull request !1197 from hw_llm/master",0.0032388344407081604
+08b1ab779ceb452e0b9533d9969dfd30c6c6d554,openharmony_ci,120357966@qq.com,2024-08-16T10:12:17+00:00,!1208 【同步4.1 Release】容器编译失败问题同步,"!1208 【同步4.1 Release】容器编译失败问题同步
+Merge pull request !1208 from hw_llm/cherry-pick-1723789557",0.003210922470316291
+1a4b0843b01b84c258774cdaa3813ca79ad964a9,y30015170,1169998606@qq.com,2025-05-29T09:47:47+08:00,Description: kernel_liteos_a timer_delete RaceConditions Bug,"Description: kernel_liteos_a timer_delete RaceConditions Bug
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/ICBARY
+Feature or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: y30015170 <1169998606@qq.com>",0.003156044287607074
+cab654a3fe24d679f5945952d181ba0acfe10830,openharmony_ci,120357966@qq.com,2024-08-23T09:27:21+00:00,!1218 SysEpollWait 系统调用使用正确长度。,"!1218 SysEpollWait 系统调用使用正确长度。
+Merge pull request !1218 from hw_llm/master",0.0030743437819182873
+9752b874536b9e2ed34b85724f9aed866c5378f0,openharmony_ci,120357966@qq.com,2024-12-26T13:27:13+00:00,!1254 【pick 4.1 Release】修复epoll_wait 条件竞争漏洞,"!1254 【pick 4.1 Release】修复epoll_wait 条件竞争漏洞
+Merge pull request !1254 from hw_llm/cherry-pick-1735198858",0.0030734683386981487
+241b9206a76032d173086f66eb57dc63beb6efc1,openharmony_ci,120357966@qq.com,2024-10-16T04:00:14+00:00,!1243 【Pick 4.0 Release】fs_epoll竞争漏洞修复,"!1243 【Pick 4.0 Release】fs_epoll竞争漏洞修复
+Merge pull request !1243 from hw_llm/cherry-pick-1729040606",0.0030370291788131
+07be40d1f35b72fb6b1fd423618d208070feef07,hw_llm,liu.limin@huawei.com,2024-09-20T16:42:19+08:00,Description: VM Map 添加LiteIPC 保护,"Description: VM Map 添加LiteIPC 保护
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IASJLX
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/75af9e28d9e92398f71e2f884c53a2745e7cd097>",0.00301993265748024
+562c5d93d3442555557b849c5eca5881f2e785e4,hw_llm,liu.limin@huawei.com,2024-09-23T20:01:13+08:00,Description: liteipc 解决 释放后使用问题,"Description: liteipc 解决 释放后使用问题
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAT99L
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/8b571985262dc1d5ed64bbeb08f55a11306bf174>",0.0029868732672184706
+b2795f9d69aad5555e02578b03d8dbe64189e1d8,hw_llm,liu.limin@huawei.com,2024-09-20T16:42:19+08:00,Description: VM Map 添加LiteIPC 保护,"Description: VM Map 添加LiteIPC 保护
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IASJLL
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/75af9e28d9e92398f71e2f884c53a2745e7cd097>",0.0029764403589069843
+9915392bcd8b9c925556a85989b56d7b6c0ab424,openharmony_ci,120357966@qq.com,2024-12-26T13:24:56+00:00,!1256 【pick 5.0.1 Release】修复epoll_wait 条件竞争漏洞,"!1256 【pick 5.0.1 Release】修复epoll_wait 条件竞争漏洞
+Merge pull request !1256 from hw_llm/cherry-pick-1735199185",0.0028906692750751972
+b58c6d41f3d711896f8a8cd3a5f09ff671f1d24c,hw_llm,liu.limin@huawei.com,2024-08-23T17:33:57+08:00,Description: OsShellCmdTskInfoGet 内存泄露漏洞修复,"Description: OsShellCmdTskInfoGet 内存泄露漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAM34B?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0027426823507994413
+b2795f9d69aad5555e02578b03d8dbe64189e1d8,hw_llm,liu.limin@huawei.com,2024-09-20T16:42:19+08:00,Description: VM Map 添加LiteIPC 保护,"Description: VM Map 添加LiteIPC 保护
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IASJLL
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/75af9e28d9e92398f71e2f884c53a2745e7cd097>",0.0027102255262434483
+c600b33bad9d9b587b05bc0db5a8e419b57c2b0a,hw_llm,liu.limin@huawei.com,2024-12-26T15:15:32+08:00,Description: 修复epoll_wait 条件竞争漏洞,"Description: 修复epoll_wait 条件竞争漏洞
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBDWNM?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/683fc086a615ef1172f7c41b68857abd01120e04>",0.0026768017560243607
+612467221af118c1cfdea3640c4fec3fdf965ec3,hw_llm,liu.limin@huawei.com,2024-12-26T15:15:32+08:00,Description: 修复epoll_wait 条件竞争漏洞,"Description: 修复epoll_wait 条件竞争漏洞
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBDWNX?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/0467d446a1525f9607cfb1e5ae9057516a58fd6b>",0.002670847112312913
+5ac9191bfca5aa8710ee0860e1cd799efc74bec8,openharmony_ci,120357966@qq.com,2024-12-26T13:25:56+00:00,!1255 【pick 5.0.0 Release】修复epoll_wait 条件竞争漏洞,"!1255 【pick 5.0.0 Release】修复epoll_wait 条件竞争漏洞
+Merge pull request !1255 from hw_llm/cherry-pick-1735199065",0.002624827902764082
+0467d446a1525f9607cfb1e5ae9057516a58fd6b,hw_llm,liu.limin@huawei.com,2024-12-26T15:15:32+08:00,Description: 修复epoll_wait 条件竞争漏洞,"Description: 修复epoll_wait 条件竞争漏洞
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBDWNU?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/683fc086a615ef1172f7c41b68857abd01120e04>",0.0026115404907613993
+93c339045098e3f0024dca78244dc398a7940035,hw_llm,liu.limin@huawei.com,2024-09-23T20:01:13+08:00,Description: liteipc 解决 释放后使用问题,"Description: liteipc 解决 释放后使用问题
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAT2X3
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/8b571985262dc1d5ed64bbeb08f55a11306bf174>",0.0026074466295540333
+2e642e6d9a9e60fbcb2e98ca1f1e015f2db5fbd9,openharmony_ci,120357966@qq.com,2024-08-22T07:06:10+00:00,!1212 console read 漏洞修复,"!1212 console read 漏洞修复
+Merge pull request !1212 from hw_llm/master",0.0026063243858516216
+75af9e28d9e92398f71e2f884c53a2745e7cd097,hw_llm,liu.limin@huawei.com,2024-09-20T16:42:19+08:00,Description: VM Map 添加LiteIPC 保护,"Description: VM Map 添加LiteIPC 保护
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IASJFR
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.002604740671813488
+d9716f2b3882af4dc587bb43dd3e7345ac6c967b,openharmony_ci,120357966@qq.com,2024-08-22T07:47:33+00:00,!1213 console read 漏洞修复,"!1213 console read 漏洞修复
+Merge pull request !1213 from hw_llm/cherry-pick-1724245306",0.0024362108670175076
+75af9e28d9e92398f71e2f884c53a2745e7cd097,hw_llm,liu.limin@huawei.com,2024-09-20T16:42:19+08:00,Description: VM Map 添加LiteIPC 保护,"Description: VM Map 添加LiteIPC 保护
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IASJFR
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0024187692906707525
+4e90ebdd73b89357bfa5412869f2ae7d184adb6d,openharmony_ci,120357966@qq.com,2024-07-22T10:22:58+00:00,!1200 整数溢出漏洞修复,"!1200 整数溢出漏洞修复
+Merge pull request !1200 from hw_llm/cherry-pick-1721456740",0.002407378051429987
+dfc582aecda8ac1e0570d5f6fddbe332c52d0d27,hw_llm,liu.limin@huawei.com,2024-05-10T20:05:39+08:00,fixed dbbb96c from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1189,"fixed dbbb96c from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1189
+Description: liteos_a 内核竞争漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/I9OACM
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.002341572195291519
+683fc086a615ef1172f7c41b68857abd01120e04,hw_llm,liu.limin@huawei.com,2024-12-26T15:15:32+08:00,Description: 修复epoll_wait 条件竞争漏洞,"Description: 修复epoll_wait 条件竞争漏洞
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBDWNF?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0023359404876828194
+e3c6f8859be7725263e7e4f5895d3b068a8eb809,y30015170,1169998606@qq.com,2025-05-29T09:47:47+08:00,Description: kernel_liteos_a timer_delete RaceConditions Bug,"Description: kernel_liteos_a timer_delete RaceConditions Bug
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/ICC27J
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: y30015170 <1169998606@qq.com>",0.00233444944024086
+761cf903a732a69fa2856e60154a2c7e1d2923f3,y30015170,1169998606@qq.com,2025-05-29T09:47:47+08:00,Description: kernel_liteos_a timer_delete RaceConditions Bug,"Description: kernel_liteos_a timer_delete RaceConditions Bug
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/ICC279
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: y30015170 <1169998606@qq.com>",0.0022415921557694674
+f264fa6b13f807b5893c5b6af4d541ad726c4b71,openharmony_ci,120357966@qq.com,2024-08-22T08:38:58+00:00,!1214 [Pick 4.1 Release]console read 漏洞修复,"!1214 [Pick 4.1 Release]console read 漏洞修复
+Merge pull request !1214 from hw_llm/cherry-pick-1724245367",0.002200063783675432
+180bf8e5cd822feae0e66b64719525851494c2ed,openharmony_ci,120357966@qq.com,2024-05-11T03:01:05+00:00,!1189 内核mqueue 竞争漏洞修复,"!1189 内核mqueue 竞争漏洞修复
+Merge pull request !1189 from hw_llm/master",0.002158657182008028
+d1065219d781790f94101d1d4ea33de75255307f,hw_llm,liu.limin@huawei.com,2025-01-17T15:53:06+08:00,Description: OsCopyUserParam kernel 空间操作控制,"Description: OsCopyUserParam kernel 空间操作控制
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBIIAZ?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0019914736039936543
+d958a8537ca3f38a77f5b5a7a0aadc35f509289e,hw_llm,liu.limin@huawei.com,2024-08-15T09:37:09+08:00,Description: 解决容器编译报错问题,"Description: 解决容器编译报错问题
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/I9TEYD
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.001981206936761737
+141ad15cf0b51a452ab80555893a717a1f62242d,hw_llm,liu.limin@huawei.com,2025-01-15T09:31:30+08:00,Description: GetGroups 扩大SCHEDULER_LOCK 保护范围,"Description: GetGroups 扩大SCHEDULER_LOCK 保护范围
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBHTM5?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/940a5a8c2cd1ced84d435933dbcdbb1a7fbf3000>",0.0019704753067344427
+a0f94f852608c7335b63c800cb2c14ec48980fa1,hw_llm,liu.limin@huawei.com,2025-02-07T16:51:12+08:00,Description: los hilog 存在整数溢出风险,"Description: los hilog 存在整数溢出风险
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBKPCV?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0019653618801385164
+b3897d7095006d3e5538dc095c5b2f87dd20937d,hw_llm,liu.limin@huawei.com,2025-01-15T09:31:30+08:00,Description: GetGroups 扩大SCHEDULER_LOCK 保护范围,"Description: GetGroups 扩大SCHEDULER_LOCK 保护范围
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBHTM4?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/940a5a8c2cd1ced84d435933dbcdbb1a7fbf3000>",0.001963268732652068
+37162aafb66d25ae53f353c568dfd2413c19d5c2,openharmony_ci,120357966@qq.com,2024-08-15T13:30:11+00:00,!1202 容器测试编译报错问题,"!1202 容器测试编译报错问题
+Merge pull request !1202 from hw_llm/master",0.0019584321416914463
+b22a7c266eac25818ca9f9714d96fce9a366f18c,hw_llm,liu.limin@huawei.com,2024-08-21T20:57:40+08:00,Description: console read 漏洞修复,"Description: console read 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IALLNX?from=project-issue
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0019455576548352838
+e6eb21f55e4768f6cfbf09cedb0b35259bafcb4b,hw_llm,liu.limin@huawei.com,2025-01-17T19:51:01+08:00,Description: OsCopyUserParam kernel 空间操作控制,"Description: OsCopyUserParam kernel 空间操作控制
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBIKPL?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0019403462065383792
+37d08b1d1482c54bfb239c31933be0a96680a528,hw_llm,liu.limin@huawei.com,2024-08-16T01:10:22+00:00,update kernel/extended/plimit/los_devicelimit.c.,"update kernel/extended/plimit/los_devicelimit.c.
+
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0019200796959921718
+186da6e8c10e408bc35ccc8d709aebf7c7395769,hw_llm,liu.limin@huawei.com,2025-01-17T15:53:06+08:00,Description: OsCopyUserParam kernel 空间操作控制,"Description: OsCopyUserParam kernel 空间操作控制
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBIKDC?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0019097387557849288
+f83c7205e7d685a999e5de360423c13db1886453,openharmony_ci,120357966@qq.com,2025-01-15T12:22:50+00:00,!1263 GetGroups 扩大SCHEDULER_LOCK 保护范围,"!1263 GetGroups 扩大SCHEDULER_LOCK 保护范围
+Merge pull request !1263 from hw_llm/cherry-pick-1736905361",0.0018893731757998466
+66228974c5e6b10c6b2fcb3cf536a91350251359,hw_llm,liu.limin@huawei.com,2024-09-29T17:41:35+08:00,Description: hidumper 漏洞修复,"Description: hidumper 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAUKDF
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/31da79ec80e5a1517e3aff126a4b13ed37d352ee>",0.0018760953098535538
+91f09783e3e6031c2ed6e2fbc7e730197ecf386e,hw_llm,liu.limin@huawei.com,2025-02-07T16:13:32+08:00,Description: los hilog 存在整数溢出风险,"Description: los hilog 存在整数溢出风险
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBKOPU?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0018686203984543681
+f2ff0044b09acbbdaf39c5708b37c0112a3e5c98,hw_llm,liu.limin@huawei.com,2024-11-29T20:15:14+08:00,Description: 修复vm shellcmd pid 越界访问 LosProcessCB,"Description: 修复vm shellcmd pid 越界访问 LosProcessCB
+Description: 修复vm shellcmd pid 越界访问 LosProcessCB
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IB7L1I?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/4776acfe0895f0cfe19314cd4cab31d84a60c300>",0.0018573825946077704
+ef69467cd367748551e9d6b3ce6296fe52d4eaa3,hw_llm,liu.limin@huawei.com,2024-09-29T17:41:35+08:00,Description: hidumper 漏洞修复,"Description: hidumper 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAUKDD
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/31da79ec80e5a1517e3aff126a4b13ed37d352ee>",0.0018519378500059247
+9a65db79ad0bcbaf50049542b53ca706d578e88a,hw_llm,liu.limin@huawei.com,2024-11-29T20:15:14+08:00,Description: 修复vm shellcmd pid 越界访问 LosProcessCB,"Description: 修复vm shellcmd pid 越界访问 LosProcessCB
+Description: 修复vm shellcmd pid 越界访问 LosProcessCB
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IB7L1M?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>
+（cherry picked commit from <gitee.com//openharmony/kernel_liteos_a/commit/4776acfe0895f0cfe19314cd4cab31d84a60c300>",0.0018406021408736706
+c8a4969ea31f91f512877d9236a7ced5e80c2534,openharmony_ci,120357966@qq.com,2025-01-15T12:23:38+00:00,!1262 GetGroups 扩大SCHEDULER_LOCK 保护范围,"!1262 GetGroups 扩大SCHEDULER_LOCK 保护范围
+Merge pull request !1262 from hw_llm/cherry-pick-1736904877",0.001788100111298263
+1c9b4fa0d9af5121238df7aba015566ea01a4384,openharmony_ci,120357966@qq.com,2024-12-05T11:17:02+00:00,!1252 语法错误修改,"!1252 语法错误修改
+Merge pull request !1252 from hw_llm/master",0.0017521163681522012
+7d2823670b1db298490d904a199681ba3a21cef5,hw_llm,liu.limin@huawei.com,2025-02-07T15:19:34+08:00,Description: los hilog 存在整数溢出风险,"Description: los hilog 存在整数溢出风险
+https://gitee.com/openharmony/kernel_liteos_a/issues/IBKL8H
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0017059320816770196
+824ef17592d488593b36a2ed1a133cdf8586510d,hw_llm,liu.limin@huawei.com,2024-12-05T16:33:22+08:00,Description: 语法错误修改,"Description: 语法错误修改
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IB32U6
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0017022223910316825
+51428fb84ad26ce57896e80db028044ff737bc64,openharmony_ci,120357966@qq.com,2024-09-29T14:20:21+00:00,!1235 hidumper 漏洞修复,"!1235 hidumper 漏洞修复
+Merge pull request !1235 from hw_llm/master",0.0016924916999414563
+940a5a8c2cd1ced84d435933dbcdbb1a7fbf3000,hw_llm,liu.limin@huawei.com,2025-01-15T09:31:30+08:00,Description: GetGroups 扩大SCHEDULER_LOCK 保护范围,"Description: GetGroups 扩大SCHEDULER_LOCK 保护范围
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IBHTM1?from=project-issue
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0016651471378281713
+8b571985262dc1d5ed64bbeb08f55a11306bf174,hw_llm,liu.limin@huawei.com,2024-09-23T20:01:13+08:00,Description: liteipc 解决 释放后使用问题,"Description: liteipc 解决 释放后使用问题
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAT2X3
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0016217096708714962
+4abaa42830b92ae30c184e997c4c61b9e3fce6cb,hw_llm,liu.limin@huawei.com,2024-09-06T14:41:43+08:00,Description: OsFlushDirtyPage 函数内变量类型调整,"Description: OsFlushDirtyPage 函数内变量类型调整
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IA87P4
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.001603778451681137
+15cf58260e3d2a195af2c58bf32220712f3778d1,openharmony_ci,120357966@qq.com,2025-01-15T12:20:35+00:00,!1261 GetGroups 扩大SCHEDULER_LOCK 保护范围,"!1261 GetGroups 扩大SCHEDULER_LOCK 保护范围
+Merge pull request !1261 from hw_llm/master",0.00157249066978693
+dbbb96c427e44a29bfbe897447de1eb77a36cb9f,hw_llm,liu.limin@huawei.com,2024-05-10T20:05:39+08:00,Description: liteos_a 内核竞争漏洞修复,"Description: liteos_a 内核竞争漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/I9OACM
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0015368382446467876
+e64cbd2dff16de12b993cb74fde670a5b556d643,openharmony_ci,120357966@qq.com,2024-09-30T00:59:55+00:00,!1236 【Pick 4.0 Release】hidumper 漏洞修复,"!1236 【Pick 4.0 Release】hidumper 漏洞修复
+Merge pull request !1236 from hw_llm/cherry-pick-1727608437",0.001448767725378275
+f9ccc6e5fda6c8c41dc7368ecb6677b29bd197a2,openharmony_ci,120357966@qq.com,2024-09-29T14:21:40+00:00,!1237 【Pick 4.1 Release】hidumper 漏洞修复,"!1237 【Pick 4.1 Release】hidumper 漏洞修复
+Merge pull request !1237 from hw_llm/cherry-pick-1727612382",0.0014300941256806254
+31da79ec80e5a1517e3aff126a4b13ed37d352ee,hw_llm,liu.limin@huawei.com,2024-09-29T17:41:35+08:00,Description: hidumper 漏洞修复,"Description: hidumper 漏洞修复
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/IAUKD9
+Feature Or Bugfix: Bugfix
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.001397036132402718
+28159170bebc55c8424bb03fd30170b935be4885,brucezhao,zhaocl1994@qq.com,2024-07-15T02:09:36+00:00,修复OsMemPoolDeInit函数名错误,"修复OsMemPoolDeInit函数名错误
+函数定义为`OsMemPoolDeinit`,而函数调用处使用的是`OsMemPoolDeInit`,前后不一致，对函数定义进行修复
+
+Signed-off-by: brucezhao <zhaocl1994@qq.com>",0.0013788267970085144
+5d1caa2cfebaf153c2aa4dfa9a599633582c0327,openharmony_ci,120357966@qq.com,2024-08-28T08:58:35+00:00,!1198 【轻量级 PR】：修复OsMemPoolDeInit函数名错误,"!1198 【轻量级 PR】：修复OsMemPoolDeInit函数名错误
+Merge pull request !1198 from brucezhao/N/A",0.0013514155289158225
+26a187ede72cb7b6df80a7a4e2bd5e8aa9544b4c,openharmony_ci,120357966@qq.com,2024-05-23T12:40:06+00:00,!1191 【Pick】【OH-4.1-Release】解决竞争冲突,"!1191 【Pick】【OH-4.1-Release】解决竞争冲突
+Merge pull request !1191 from hw_llm/cherry-pick-1715399782",0.0012708402937278152
+42f79f133b5fcfe7930871a142cd504296546425,openharmony_ci,120357966@qq.com,2024-09-06T12:20:09+00:00,!1224 OsFlushDirtyPage 函数内变量类型调整,"!1224 OsFlushDirtyPage 函数内变量类型调整
+Merge pull request !1224 from hw_llm/master",0.0012279079528525472
+1848f31fdf94d5226774bef9540c3b546ff583b2,openharmony_ci,120357966@qq.com,2024-05-23T12:01:24+00:00,!1190 【Pick】【OH-4.0-Release】解决竞争冲突,"!1190 【Pick】【OH-4.0-Release】解决竞争冲突
+Merge pull request !1190 from hw_llm/cherry-pick-1715399454",0.0012009963393211365
+e24d635e8f5e59460278219a657543017be24e93,openharmony_ci,120357966@qq.com,2025-02-07T10:24:19+00:00,!1270 Description: los hilog 存在整数溢出风险,"!1270 Description: los hilog 存在整数溢出风险
+Merge pull request !1270 from hw_llm/OpenHarmony-5.0.2-Release",0.0011879948433488607
+e3eaae1b1c6ed639b9940fca8decc212d71205cc,openharmony_ci,120357966@qq.com,2024-03-26T07:19:04+00:00,!1184 【轻量级 PR】：修改 SortQueueIndexArray 函数笔误,"!1184 【轻量级 PR】：修改 SortQueueIndexArray 函数笔误
+Merge pull request !1184 from brucezhao/N/A",0.0011134136002510786
+3a18d47bc894243583694fb0e46350d12dc2bb44,openharmony_ci,120357966@qq.com,2025-02-07T10:24:51+00:00,!1271 Description: los hilog 存在整数溢出风险,"!1271 Description: los hilog 存在整数溢出风险
+Merge pull request !1271 from hw_llm/OpenHarmony-4.1-Release",0.0009690976003184915
+43468e7cf1bdc6dedf1a09e16061725f486c572c,openharmony_ci,120357966@qq.com,2025-02-07T09:47:21+00:00,!1269 Description: los hilog 存在整数溢出风险,"!1269 Description: los hilog 存在整数溢出风险
+Merge pull request !1269 from hw_llm/master",0.000925933476537466
+82859aec96f975ac06ce723de8fbc30fa5930311,openharmony_ci,120357966@qq.com,2025-02-21T14:02:15+00:00,!1268 禁止使用all_dependent_configs门禁告警整改,"!1268 禁止使用all_dependent_configs门禁告警整改
+Merge pull request !1268 from HsuYao/all_dependence_configs",0.0
+f2a92bd8205160e4d6ea2b83b27ee4d7a3b25e10,xwx1135370,xuyao44@huawei.com,2025-01-26T14:27:02+08:00,禁止使用all_dependent_configs门禁告警整改,"禁止使用all_dependent_configs门禁告警整改
+
+issue:https://gitee.com/openharmony/third_party_musl/issues/IBI4YE?from=project-issue&search_text=%E5%91%8A%E8%AD%A6
+
+Signed-off-by: xwx1135370 <xuyao44@huawei.com>",0.0
+a0088a2e539815adb2cd048af96e4a43d555e44c,openharmony_ci,120357966@qq.com,2024-08-19T07:45:48+00:00,!1206 内核代码适配,"!1206 内核代码适配
+Merge pull request !1206 from yaowenrui/OpenHarmony-4.1-Release",0.0
+aafc474a2f67de0b138ea3151de3421e0f6f2121,openharmony_ci,120357966@qq.com,2024-08-16T02:45:45+00:00,!1207 容器编译失败问题解决,"!1207 容器编译失败问题解决
+Merge pull request !1207 from hw_llm/cherry-pick-1723770411",0.0
+270d5edb5fc58fbfb055231426ae3e579cb41e0a,openharmony_ci,120357966@qq.com,2024-08-19T07:46:19+00:00,!1205 内核代码适配,"!1205 内核代码适配
+Merge pull request !1205 from yaowenrui/OpenHarmony-4.0-Release",0.0
+3f8b270180f379681af62be41e005787ad2016a9,yaowenrui,yaowenrui2@huawei.com,2024-08-14T15:54:54+08:00,5.10内核仓代码适配,"5.10内核仓代码适配
+
+Signed-off-by: yaowenrui <yaowenrui2@huawei.com>",0.0
+aaf352f7f2522dcf88d761ec11dffc8ef27d5791,openharmony_ci,120357966@qq.com,2024-08-15T02:45:09+00:00,!1201 内核代码适配,"!1201 内核代码适配
+Merge pull request !1201 from yaowenrui/master",0.0
+95d022d1293693b567feb095e42af6b8cc905df2,yaowenrui,yaowenrui2@huawei.com,2024-08-14T15:54:54+08:00,5.10内核仓代码适配,"5.10内核仓代码适配
+
+Signed-off-by: yaowenrui <yaowenrui2@huawei.com>",0.0
+589820d05a8a3cf6cf73f29d0eee0af923b229a3,yaowenrui,yaowenrui2@huawei.com,2024-08-14T15:54:54+08:00,5.10内核仓代码适配,"5.10内核仓代码适配
+
+Signed-off-by: yaowenrui <yaowenrui2@huawei.com>",0.0
+897eb641c40306580a0c75c94a4d0c37f1c79371,石子怡,z15319797139@163.com,2024-05-25T02:47:05+00:00,修复OAT告警,"修复OAT告警
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.0
+7fcec6797ceedc14b5dd53fb951d36b90a2473df,openharmony_ci,120357966@qq.com,2024-05-27T11:37:41+00:00,!1192 【修复】OAT告警,"!1192 【修复】OAT告警
+Merge pull request !1192 from 石子怡/master",0.0
+b98d91fcd351fd0313d4010386e341b18b8f74dc,openharmony_ci,120357966@qq.com,2024-05-28T12:36:09+00:00,!1193 【修复】OAT告警,"!1193 【修复】OAT告警
+Merge pull request !1193 from 石子怡/cherry-pick-1716600957",0.0
+b0520a56f4f1155231d8a4ec8c03a31fce87a93d,石子怡,z15319797139@163.com,2024-05-25T01:33:58+00:00,修复OAT告警,"修复OAT告警
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.0
+e1aa01a464a92779ee3dae64c7f907f319cc3cb9,石子怡,z15319797139@163.com,2024-05-25T01:33:58+00:00,fixed b0520a5 from https://gitee.com/shi-ziyi123/kernel_liteos_a/pulls/1192,"fixed b0520a5 from https://gitee.com/shi-ziyi123/kernel_liteos_a/pulls/1192
+修复OAT告警
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.0
+dff8682d4dca78bfaabccb450e007a17b5f8adc3,石子怡,z15319797139@163.com,2024-05-25T02:30:55+00:00,修复OAT告警,"修复OAT告警
+
+Signed-off-by: 石子怡 <z15319797139@163.com>",0.0
+9b5892e0a64a983f67b877fa1a1f963fa1914291,openharmony_ci,120357966@qq.com,2024-03-14T07:52:29+00:00,!1187 LTS 5.10 补丁升级适配,"!1187 LTS 5.10 补丁升级适配
+Merge pull request !1187 from Wanxiaoqing/master",0.0
+6a4d0be681a016cd403e1da33ea12ffa02242ff3,wanxiaoqing,wanxiaoqing@huawei.com,2024-03-13T09:38:42+08:00,LTS 5.10 补丁升级适配,"LTS 5.10 补丁升级适配
+
+Signed-off-by: wanxiaoqing <wanxiaoqing@huawei.com>",0.0
+25a4c3f13a7c74b8cfe979b2fa4e4fa8ad0e6ea6,openharmony_ci,120357966@qq.com,2024-02-22T06:34:28+00:00,!1186 部件bundle.json 中syscap与设计信息不一致,"!1186 部件bundle.json 中syscap与设计信息不一致
+Merge pull request !1186 from hw_llm/cherry-pick-1708502857",0.0
+7dc3f248155da41bedb6e6392df72586a92c203c,hw_llm,liu.limin@huawei.com,2024-02-02T15:41:59+08:00,fixed cfa0209 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1185,"fixed cfa0209 from https://gitee.com/hw_llm/kernel_liteos_a/pulls/1185
+Description: 删除bundle.json中syscap信息
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/I90PKD
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0
+8fe4080d080a468dabc42c24c81dbef56d702870,openharmony_ci,120357966@qq.com,2024-02-05T07:22:47+00:00,!1185 删除bundle.json中的syscap信息，确保与架构信息平台设计信息一致,"!1185 删除bundle.json中的syscap信息，确保与架构信息平台设计信息一致
+Merge pull request !1185 from hw_llm/master",0.0
+cfa0209c149fb265635f3f4bc67d2df75c10ae98,hw_llm,liu.limin@huawei.com,2024-02-02T15:41:59+08:00,Description: 删除bundle.json中syscap信息,"Description: 删除bundle.json中syscap信息
+IssueNo: https://gitee.com/openharmony/kernel_liteos_a/issues/I90PKD
+Feature Or Bugfix: Feature
+Binary Source: No
+Signed-off-by: hw_llm <liu.limin@huawei.com>",0.0
