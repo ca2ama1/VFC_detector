@@ -1,0 +1,1759 @@
+[
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "a6ae1cbdf73ff75dcd0c2bb9f7e370780da91000",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "4496e71356e755178d91bc4719ccd84620fbbd47"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "20c42a9de5e03f8af68e455e36c9ac86a5e899aa",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "69820e1ea9c5ab0eaae5b1c70bb90b89eaa043f5"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/third_party_cJSON",
+    "sha": "59290b75b3d217ecb2b3832c62b7de998d4c7001",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "6f443fb5d952bef139eb8fadfc7556a3108cd17d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/third_party_mksh",
+    "sha": "d545d6b3a50ad4ce29c55abb41e4143ca507594c",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "467a83eb7f7bfd66d39a07a6e47b4e42babf15ab"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/applications_hap",
+    "sha": "be0743b6353100b339520d38f6993f070b335884",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "41ea1a91c8c6b076e14813177553923ba3dd2640"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "c099376d697eb3787d2c9583027fd5fc63bb0b20",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "141ad15cf0b51a452ab80555893a717a1f62242d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "34490fc0ed10f9ed5d74f498c6680ea307f26a51",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5ea48fa2b46f67a17e6d68420aa6b55ffae95cb0"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_frontend",
+    "sha": "c001b932b5aced1bdb5dedf8a10200356c6285f6",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "43ce983926f721bbb825fd7a52ea084f9ebbe684"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "d3b17ed2b7fc5b25ea4390dd1b896313bb2c72ca",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c1eda52ab32c75e4014230ffeaecf2a1d3702971"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_netmanager_base",
+    "sha": "73c8918a73ef11e7a91bbdf69eec80762dac7d67",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "b99cb78281915a9a2587aca981fa69c969ba8f93"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/drivers_adapter",
+    "sha": "888f29af77e0ce93f81a099e86e958178e0a140f",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e2b8e4794ff6cac825405b7f87d8639101f7ac3d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/hiviewdfx_hiview",
+    "sha": "f4874d2aa377e67fac223e5fca26b88a3e2c7b2e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "0b78d9649ee44e1e11a262b95bc29b32d0424bad"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "ece12ec2a309a9f405ca12e8d730c6c628207156",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5224beb2dbc52902e638e3cd1a0a230697482167"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/drivers_adapter_khdf_linux",
+    "sha": "79194af214e3865acdb91a8365cbbe816b7c160b",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "f21c2a4aea59b4825a11f5d586c25619031b9836"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkui_ace_engine",
+    "sha": "fde6491ca2bd2e9701f925982dc9d8be6be5f283",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c3acf6f529462459b533b3731b569990ec3be511"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "663679bf83b197d862518c392f2112c983482f6e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "21087fbc5c39e0e927ae534068aa416547b3115e"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/ability_ability_runtime",
+    "sha": "57739356cfe4cf53cf930c98306899d034c455bb",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "f2898e72966a8fcc59ecebc3cdea8d9aab063b1d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/security_certificate_manager",
+    "sha": "f3b96aafc36fc1f79ee8b0d8d294f26b8e172591",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "3c9b34fc07ecf7c4b0a1030611552a7c444f3d15"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/multimedia_player_framework",
+    "sha": "2624c987200cfc54a4fa0ccb61498b6d6d96073e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "ba6bfc14b5895cfbbae8abd54e059044a59783e6"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/resourceschedule_background_task_mgr",
+    "sha": "e429a23bf1f02f3e98253c7c38d287a9c445ae5c",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "0a6e90e327d1f0d22addd1dad468125edec7c830"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "a8346e02621c80cff8ee52f14a569f02e7c7c965",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "cd89eb9b5f590230362258e82a3997b83465934d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_linux_5.10",
+    "sha": "3e4acc5ec65217c8859ebeba5a75939deef5e5b3",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "fed95a2dfb0615a49330659db6db9ce3ebd9d899"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "5c9ad095bfc3745df76e997237ab7b8f615c7c1d",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "19769f795bcc4e8eb67c97cea4ebb0193bb4012c"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "824ef17592d488593b36a2ed1a133cdf8586510d",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "1bb7968775c4090e2ade83ce46743b5050f743a5"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "7d2823670b1db298490d904a199681ba3a21cef5",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "f2c2a2e21f3ad5c2539b32aba78c99463c5aca5a"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "25569c328b51ab19183e9a73268641333f4c6a1b",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "de3d90eb330bfbc91791e705abe873202c0ef11d",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "7d35fa584f8b986a88e7a00d13ad3cd99e42f6d6"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_sms_mms",
+    "sha": "80190a7e9c916f3119984897bd193345b6363088",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c940ea736f64826c4929356e83e4bae3de5748d4"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "b395cc61535d33f1208022d75a85986a3c9caa98",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "2f1194a2d61581faa28cd6be15240062b8061f13"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "25f237d1aa1f1ac6b14eec079c412b66daf48436",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "dd045a87d31297a478ff2bb4a1cb238c1eb33d1c"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_call_manager",
+    "sha": "276bc0d830d325c719a24886479131aaa93ff67d",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c751a0dc4c67b40430291d983df60efbb68b5caa"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "d1a583624b8d80bff51904a98ef9d15077d859f5",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "38fca35ff2cb2c32cade0269e8112e781fa17f2e"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "9ae663bd31c3fb04e73c91bfb003a74f223a48d0",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5c3eb21686b609e6ea77a33f6530a35d774a028b"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "fbbc7f3339e185ee7049e9d1506fe9583fc445ef",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "a5413386562c28b75ea26bd64cc8ab9f264d99f3"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkui_ace_engine",
+    "sha": "a26295df0f8f7b0614ae0c31acab4dfb7ec7668d",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "33215c2d17bd7c92d9f2e5b155b0d05028b4739f"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/multimedia_player_framework",
+    "sha": "53f8855a6645af413fcc379b071cb6665707e60b",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "1b68a301f966efe0b052d8ea0698f70db72198a7"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "2f18204755cc9662864dd0302f2290044cf6bb5b",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "865559c6943f6e9168b7a54f6d6ceba0d834842e"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "d0558997d0a95d81aa83520e127eac1c180a7a3e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "d3be3a008b81937364504954fcd839bc1243ff61"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "ef7610470ce4197d6083fbcf206f42f589cba8e5",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "80f1868e980b9b59db03b807cd0550bf34970576"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/distributeddatamgr_pasteboard",
+    "sha": "c5b13e12d91cd3cd48d4e40a123ac1bd8e5266d7",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "d4a8f17c9666679d4ee7c97c02d827e7de110b24"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/multimedia_audio_framework",
+    "sha": "88c654a01de192fd1ada1e13de55ed0539635ba2",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "1764486038221bc50dd876762471a803acd2c55c"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/third_party_NuttX",
+    "sha": "fd147e7eb37dd6b676f33005db01de2905607490",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "ad721338eb0f248081719462914f7c5b958f688b"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/distributedhardware_device_manager",
+    "sha": "a56060fe50f12138fc1a30d83c4fdeb684b6a8af",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "64c032df7be7780262066b6707149667f0d6c1d8"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_wifi",
+    "sha": "726a96b9435b7b9d729f5b34f115bdd61a21b8c5",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "67e3580ae15c9c1b01360d9cbabe45c17a1724bf"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "54c18e0e9e1439b711b20de9e65a157c4efd156c",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "cd89eb9b5f590230362258e82a3997b83465934d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "2e50c3380f6bbaa8f1a5b0ff32fde899b733a981",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "d1e91c81ffea2e90d9256f5408604ae9ce1565c9"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "fde3fc93f19840c098b52c6d4b0dde06a8278a6f",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e057e038322650560772324c5015785d46f718ff"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "2da4d4b70b3f5361a30293821e7ab6333be9d952",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c5e3f60a02446e771f3b390df2ebe5d875a308e5"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "eaf7794ae1adb2b47da65a77ee608791b1875e0f",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "65bfa4c0011f7ca312ac4c6f8941a64f1b5938f7"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/multimedia_camera_framework",
+    "sha": "cb06d8d5e555f99212d7a1cc78df6a859dfd77e2",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "b97e44cae0dc5576730d8c4b0f8d7fb4e9af1188"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_state_registry",
+    "sha": "b4f5e0196296a56081ffe4bd9b02ab3f980f0d61",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "8c18f8f784bc0210707568b03278339ae513bbfa"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "af1ec938fc18f1616085175652aef59df9a7e6c9",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c5e3f60a02446e771f3b390df2ebe5d875a308e5"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "2e5642fe38bd7541344d45ae37d52684a222fc4f",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "43232fddd79a0111ea7401404acb641b276d748a"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "4776acfe0895f0cfe19314cd4cab31d84a60c300",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "65a8243fb1334495582a008df4219d539f4cf829"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "d270b628c2e6fef4ee9db4c782af0de9c999654a",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "6b9df3fe7db97da06c6b9ed1ceda4934b2537a93"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/distributedschedule_samgr_lite",
+    "sha": "f15ca3ac3dc126ba9b079ecc8b3185da01f8972f",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "4d32bce0828c9e6446c473007fd37518c7f3e357"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_linux_5.10",
+    "sha": "b2e176cb7119bdda6b5ff68cea4f5c599c89df00",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "ac429aa52966fa4734f9925500df0eadb1de82b2"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_m",
+    "sha": "4c72d42199fb980e2b87af022a1df2c276458614",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "3357f7f2fe2abda8792a0d4315fd234075d33f52"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/multimedia_player_framework",
+    "sha": "c9e35b3ce7166f3c04d1500eecc32240d6dd9285",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "1b68a301f966efe0b052d8ea0698f70db72198a7"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "e9c4aa6ac1d56e44ee87c8ff1bdd179a18f84d1b",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "8215a95d3d45fbcc30c25bb25a57b3a1139fe77d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/bundlemanager_bundle_framework",
+    "sha": "77eac0b23f696566dee82e9a5e7a3bfa87d38e34",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "96c480293347469d4bba98b60ef037e4ed9d7a61"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "4160a1a0c0ee8ba258d96a1d5d8f6fdc105046d2",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "07f33ab96652b06f6b84852ea59645d73ff064c7"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "148fcf22abbf84a953b47497d9eeaab464301ebc",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "07be40d1f35b72fb6b1fd423618d208070feef07"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "ba63e9ea6fdff9bc3c066bc531d02c978cd78278",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e057e038322650560772324c5015785d46f718ff"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_sms_mms",
+    "sha": "6ea6181e8acba0bb499d2417f009173144d16c13",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5150a2e473c2bebfa7dd5f81443161b8b376d2f8"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "f06d91ef2afb28e7b1e4dc5a659180f95deaa6c1",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_bluetooth",
+    "sha": "d85a24b0c2748d28bf226bb8fa08bc58deefd4fe",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "7ce21c4281580833e2c11d3afb84739ec3bc1062"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "3d8965db791038ceaa1d6f61fb0093388d8446a0",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e057e038322650560772324c5015785d46f718ff"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "0e38566326390b6dc8278d3a930ec0d03441137c",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "980ebc8591e0482fdcd7ef3cb5c2ca21d64d7d3b"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_sms_mms",
+    "sha": "ae805faeb0246369d81e96e5a0206861661efb15",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "dea7a1cb53220b522e9b557749fe5b6e2e723af6"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "6ac8e246b0efd57a28ea05b6e6973ae0602fe032",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "a502da19c0c3f9b355da3219ee54a2cd635ed456"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "91e05dcabdb094ae59df666419e0ec7f4aed7cbe",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "b60bd7d21e6f7914ce715ae290a93e82804ba7d3"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/window_window_manager",
+    "sha": "4b3b7cf1d4157f483e0dc65f0316930636659db4",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "569d580615604c74c4420d0d36012518adf81c92"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/systemabilitymgr_samgr_lite",
+    "sha": "560c52f6a1fe227796cf2833ec62e4da72fb1131",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e41b760ebd6deda06986f3471a6085d5fff277ad"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "94f2ba4485e7a0ce9758337ef6fffa6e2f28864a",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "29476005ffbacc4609231150d65dceefc000e4f1"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "43468e7cf1bdc6dedf1a09e16061725f486c572c",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "66228974c5e6b10c6b2fcb3cf536a91350251359"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/device_board_hisilicon",
+    "sha": "2fe4e5f849308428e3176ba3b4937508e81947b8",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5af5b4c1b85bbcb594e8a02a079819bb335a8b20"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "ec46765a2fbc1c332731d4b7cfce7c84264adbd2",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "0e2a01bba2345e5650e09bae36092237b010f254"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "4577df770d52f4955e0f5fbe8e267ff2990fa4fc",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "df25cc00a5b86efc2b1953afb661a797fdb06d93"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkui_ace_engine",
+    "sha": "0f5995054cd48464bbf2cd30f9bb2f1653a5696c",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "b95ba1ed929e04fe43aa27229fd2218522cebe34"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "5c6a441a266717df17a66d870a30572a5c4462c2",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "cd89eb9b5f590230362258e82a3997b83465934d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "063364168e248b6dc50dce7ecd6aa449eca11729",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "439633c93b8dea6b6d8012fc2dcd04b56d9f11ae"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/build_lite",
+    "sha": "1b3fb411eae0b9e56cce9974926e2129b004d600",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "a7ad8a6c6c0acbae434385572d59d58d7f84f094"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "88cfb3de9d54c2a649f4878725a52eddf96a2953",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "a0f94f852608c7335b63c800cb2c14ec48980fa1"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/request_request",
+    "sha": "ed614aaf37c473fcb01fa319bd1562ce6cb4b25f",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "ae12a922e152f28ab858bc14912cff442a39739f"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_sms_mms",
+    "sha": "10dd01cae89cd4e1ee87d56339f0f273783cc568",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c940ea736f64826c4929356e83e4bae3de5748d4"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "51428fb84ad26ce57896e80db028044ff737bc64",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "d8c77e52b7c8ace32d34a7f178b2674944d732e3"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkui_ace_engine",
+    "sha": "c8c6b8d6a4daf9647efa64f85751776328cda230",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "ee3d611bc332bbff4f3bf4947156dd7e45584645"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "1dedb045e5bdcb942daed57739e9b5d0bf698f7e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "bea00b1d3bae3d8d98ecc39e0d4d1db712ce2696"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "a8b2b408ae4af0b43aec3dcc22c86a2f484209a8",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5e3e1daf0f86ea6054d4d54274cf0de8e493c14f"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "287728dcadbd0e551c5e6c18d513bae50cb23e71",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5ea48fa2b46f67a17e6d68420aa6b55ffae95cb0"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_sms_mms",
+    "sha": "59c473ead68811e6ecd507a78f56513049c866ed",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5150a2e473c2bebfa7dd5f81443161b8b376d2f8"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "1ae5ac66487ed389929009c33cadcca7b6e5dac0",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "192f3e11d74beeaa3d879333471deb8a24a7e1c5"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "a27fbf336266e0905847ddcbcce9617ad336d8c5",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "bb0aa093b10c7950dd41a2942561c0ced17ac74e"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/multimedia_av_session",
+    "sha": "d063c37f4bd92dea38ddeafddfa55f3805c35646",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "814e8c147e7e82aada2dd7e4c8f155c0a53a8283"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "ad8d3a38568bfbea86013900c235cecc34e2a24b",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "497af036c2c7299b239d407710f173e2e6c6be34"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "f58bd1f97ae8cf52b2dc6241688bbaa7cc49a27a",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/distributeddatamgr_pasteboard",
+    "sha": "d5dc8c7fd74ecfeccce8ead147131041eb5f2f5d",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "f27fb584ee3dd14ec38b66d64e50cd7e70325bca"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "85b8c04f4b4a16a4681f7213e6c1cbd61d1659c2",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "9cc7a575f07fb5c69987124c5d07b55937d599a1"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/multimedia_av_codec",
+    "sha": "8089171794c42ba247cd1db27658ae19e14893e3",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "168b25fa0a705317cb4baf898f3c0de71b4e85cb"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "b782c17e26f8510c18d5d6074345bf22cc78bfa6",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c261ca9e7ec5eaecbc94aeba64e7828b67ac2c11"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_linux_5.10",
+    "sha": "89829cad0ec55bd88efc2dda5347ed3bb60708f7",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "ede426d9b5bc5da82830b31496f7aa409741acd1"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "b0107ee61faba8938144122df9603267b2419def",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e452f64238271be1ca1b21d0c83350bc4e2bd930"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "32c4f07e12c7359829e8afd45066d720f0a04a4f",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "b18034c6b5f1638315c64296930e4ed68a98de86"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "a805ae2923f63d2ab6638d5049ad32a2a98a4865",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "bea00b1d3bae3d8d98ecc39e0d4d1db712ce2696"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "d16c2caefb9eeac581ae9a40c91a47c99bf4415e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "df25cc00a5b86efc2b1953afb661a797fdb06d93"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "be266904ab149903f8a0bdd252bc10da9e461448",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e0722079a73b09ad2bb0e0f4911955bdfea3eee6"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/ai_neural_network_runtime",
+    "sha": "561b3df0b3d75745e37c702c18afb2bc89e36a2f",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "873bd0a2305eac8b8e92f69c6be23f840ece9921"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/build_lite",
+    "sha": "07c0023958db85370c9e30efefcbdec2a3423743",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "8e15127ea43d38e751ac4fd2953794381363e012"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "280ab05b136a34acf58477bcdc8ca5a9b8f1fec1",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c1eda52ab32c75e4014230ffeaecf2a1d3702971"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "1a4b0843b01b84c258774cdaa3813ca79ad964a9",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "ada7e138cc386af09e3f94d6c13e1be80041545c"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "65ddcdda75be233b126ec745ad9b2491070ca9d5",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "1eea202527c76b4ee171efe7597ebccecb1ee027"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "eedbda449a46d555ded750039bf33702a7c72d68",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c1eda52ab32c75e4014230ffeaecf2a1d3702971"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "ab05e1fd09b8857f3a3ec2aae644025135c31eb2",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "34acbc9f0aaeea7d7def469eb37a174f983cb9ff"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "3ed3f598c437d5b5957ef607edd22e5d477650c3",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e69882c9b263db96eed096d30abf100c5875c736"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkui_ace_engine",
+    "sha": "b8a8334c43f59d07b9b52289ecf423070c3378ce",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "aad0d3a3b9958064bbcc47d33ea696b2fd32f0be"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "683fc086a615ef1172f7c41b68857abd01120e04",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "dc523053cdd1dea7023d08b30d169c708896461c"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/multimedia_camera_framework",
+    "sha": "689616f200477703e1971f92dcbfb0ee1f78e4f1",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "ad8dc0b4101b5ae02c09a27a654df30115627c42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "14c79fc921db176c8c7ae87a917fa50217e664ac",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e3c6f8859be7725263e7e4f5895d3b068a8eb809"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "0c31ab3a14dcd6a59a28a750244974adebc0781a",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "19769f795bcc4e8eb67c97cea4ebb0193bb4012c"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "39e8548f14886db4e8d60b77339987921d38c653",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "bca26453389d2f1fb48701cc4d73321f52089f45"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "51d80cd04aef3a18f503f2305fc8716c0fd93b88",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "1b23531531e768398682582969c2a9f17e72cafe"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "bf9dfe802e39b45b7ec3bb386cc88007605768bb",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "8215a95d3d45fbcc30c25bb25a57b3a1139fe77d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkui_ace_engine",
+    "sha": "05f623d2dd01e5e9ba5f9a0b680e09e6b39ae68c",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "6fa8a850fe6841934fc23125b4b26a8d8d6ad961"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/multimedia_audio_framework",
+    "sha": "dd132655c37024c934edfc81b2e1ca82c821a11b",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e6c7005a8ffd035f1daf3451eb6893ee3ff64728"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "d7925a3a9a4d6f6f904a93d1fb9d27ce348e43bc",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e057e038322650560772324c5015785d46f718ff"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/distributeddatamgr_pasteboard",
+    "sha": "c8c7c2cec8ec2b2979b06e93743283092cd970f4",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "9408af4fe6e85f70fc46427b7ba779e683a12ec3"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/applications_settings",
+    "sha": "46325735b7da096fd9f3e4d10440832cf6c72344",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "99f937f4738af0d268482c6896fa12c2d8a4971d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "ed13c9c6aee3e807da43da80d7c3b67d169b8649",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c1eda52ab32c75e4014230ffeaecf2a1d3702971"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/security_huks",
+    "sha": "89ab75e6f42f266add08b283776d7523d5b543e0",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e2733c07851e0a9d0ac4758a6f00e0870e105419"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "238c91700e5d70e164efd05c56881ce282f5a19b",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkui_ace_engine",
+    "sha": "6d2aadf1eb52d2601d8d0cf96809774692f60d75",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "3253a8c3f7aad6aa74a5c73be721608ff2925bca"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/inputmethod_imf",
+    "sha": "90c49bb16adeb9539183d38a81fa254d1f2cb9ac",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "540daea718730751ed21eabc6674c912c0fae5fd"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "84f46725931d5ce1c23d5b9f11867ffdf37bb23c",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/third_party_cJSON",
+    "sha": "dea6d9d184e2b0d9ce6d03ceb7faec254245652a",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "218c0d92f736e5ee8aaddb9722eb52a5210c861a"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/third_party_NuttX",
+    "sha": "c742eb484b419c1480b8f8255f4067d030960e0c",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "1a66014b9ec1e0f1dedfe57b9f275fd36e6f53e9"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/global_resource_management",
+    "sha": "0c0564dd40be348f4bd1a223196647f668a516ee",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "10ec805a70c94d9b0be768d16e69b3b26b065de0"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "42dce5f959a17a576a5f131f5b2a62dc5d4f7709",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "9169f9f41450e55dee47863111396289bdfa40ae"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_frontend",
+    "sha": "d892af0901ace2c45e0dca34464d1674e714f30b",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5c6215375022e46029aa2d0d889c6b317928e10d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/security_device_auth",
+    "sha": "1ef7a5dd596a712d93f09f24a47bf1b7e7d1b3ef",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "4facdd2863e4d71bcc04195cdc96d17f6b3d60bf"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "d2af53f58c100fd4e6976c573bfe5168feae0a4e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c1eda52ab32c75e4014230ffeaecf2a1d3702971"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/notification_common_event_service",
+    "sha": "193c5dadef3fe96fc92b23fddc2a3da7d5b9fe47",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "7cd23d95d84c2136080579d9f65433d0b873473a"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_sms_mms",
+    "sha": "030f345f63e4c7abb24242dc82772f9bd670124e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c940ea736f64826c4929356e83e4bae3de5748d4"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "63f261d2399339ec829a490b73cbf92964094bf3",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "b3897d7095006d3e5538dc095c5b2f87dd20937d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_sms_mms",
+    "sha": "a04e6deafd38f59183a3539cabfbaec432ea9360",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5150a2e473c2bebfa7dd5f81443161b8b376d2f8"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "ba1b15699986cafd63060c06f8a96b0fb26ade64",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "04908309b149229820f1945a67eb16cbddd96412"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "afd6d303c8b4d479c39973d71d51878f528efc7c",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "2f1194a2d61581faa28cd6be15240062b8061f13"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "49e2283abff9b89decb4db8c9277e83366515ed6",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "4a0e842b96a3472f52b8c0a20775ace219ed797a"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "3efe19c02935f6019eec3db3dc9f67e8a56a33d9",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "2f1194a2d61581faa28cd6be15240062b8061f13"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "1b5d3de13bea4a93e6713f180710f2f307cad403",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5e3e1daf0f86ea6054d4d54274cf0de8e493c14f"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "d1065219d781790f94101d1d4ea33de75255307f",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "50410f66fb790bdfb8bc58408d2773988d66aec3"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/security_security_component_manager",
+    "sha": "118ba84a226b260ccf84fe5b86349678f40683fe",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "d939bbab82566f3e70b13e1efaf207c8efc1c23a"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/distributedhardware_device_manager",
+    "sha": "5d1c7e6462ae55c63dc2470ac1edabac0680836a",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "ebaa8888b9ba64834ad1016e1c5575a59728a2bd"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/security_access_token",
+    "sha": "c5382cc26b31a2f537ff73462e23f162c3670a37",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "31ed3b9f31b029b0ae4dec48a9f95b6356f924c0"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "562f07b53e60b017b10ea7e90617759ca5137e9d",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "cd89eb9b5f590230362258e82a3997b83465934d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/security_access_token",
+    "sha": "cfecf7873926a781457533d8729ed941ecd9d3dc",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "3d6137ae142f3b45363759e321972d73c31d12ad"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "bfa80d1e699a2bcb364506df1ecbcf578244c493",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "29476005ffbacc4609231150d65dceefc000e4f1"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_linux_5.10",
+    "sha": "2b7d644e17c73b5cc593a598dd4efd18caa2e065",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "dc1c4ab51dbb2c4abf0c0e5a5d9607e6686ab0f6"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "b2a68cad40977b2776c8da119e3514a9d91c9c1a",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "4cfa217a44ea4e8b833e4151d4661f6734d3c5f3"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/startup_appspawn",
+    "sha": "609030f5493af98139bc5e3dc62cd7e853475d1a",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "00b2c41e0b1eff0210aa2495a4eed2dbf017a7e5"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "4045ac849393c82b958d8411fa043b16b27ff564",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "192f3e11d74beeaa3d879333471deb8a24a7e1c5"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "b301aa5186034fd74306d9a55cf25b3c014ffebc",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/startup_init_lite",
+    "sha": "b3d4e2c40d757da1271d5d08fd72ef10cc4309ab",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "07345253b06b7ce229a746acbe85d3575147bbb2"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "75af9e28d9e92398f71e2f884c53a2745e7cd097",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c2e75eebfbcbad8f6900130cb643d82fba88ccce"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "7255248783267c95813b37967c1e9ca34720ec53",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "120ecabe529e2462e5fae95478e594f370ed3530"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "786a12855a3b1d8edaa2d2d4ccbc15c238751509",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c2dd72e356cf9a90fc21b1412306303bceb53b99"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/third_party_cJSON",
+    "sha": "f6368e8af56990e10a208557cfbe12714fbc3fa2",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "2dd75427c34c1e45ecb724bebd64aef0cb2ee9a0"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/device_hisilicon_hispark_taurus",
+    "sha": "bb6f2409ffa262475986ca4d4d19d891398fccde",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "1e8f80371d4ed5a702782df84bfc749aae19c1a8"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/notification_common_event_service",
+    "sha": "82788f132f04b16477270041254ded96ce7454bf",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5f52d2426d659ec789ab3987b783ff46d4470f56"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/multimedia_camera_framework",
+    "sha": "64f6dfe39daa95dd461183aab2a22c493b88a7c7",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "70e578cd5c5038effdd2ceb46cf915efdd4f3106"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/device_hisilicon_hi3516dv300",
+    "sha": "27f6ed1f4cf169b27f73313e59671c48ffc069d0",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "446feb00f0939d6625e2ed19a197e74c56e4735d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "6e9d252eef388a399adde2f78d199ad1c15497a3",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "825a63cc01176fd8d044e9bade1a4b24a90dd206"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "b94ce6beec71d5454639982dfa424bd89c282ea5",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "4833ea3e9474d02ad87f3c0b255b248de99ce870",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "19769f795bcc4e8eb67c97cea4ebb0193bb4012c"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "1357bb7a848ebe9ca8c6d44bbd347891458587e0",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "765efe5449d36c7918ce8ec31aa018dded9f0e5b"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "1aa00ae712dca59069262722aa9882d5801053d0",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "319168676be4b58127e49b38fa96703991c5a203"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "0d1635757f19cb29ac6526cbcf5491fec5b103f8",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "186da6e8c10e408bc35ccc8d709aebf7c7395769"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_cellular_call",
+    "sha": "212979bb75805ae2dfbea5ec75ddfaa20caf9992",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "573f5d2a28d3cb187b751bf3f3f628e2f97773f5"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "b7c3f89c70720c7cfad8d7256f860770aa3a3f49",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e4fed9af5a65df738f87e8d7f69079773b95844e"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "f1615037b193ef2e09f619cc366c7aa37d840954",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "57b71473dd52d91dd6092f483e73b17cf4fe20d3"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "8b571985262dc1d5ed64bbeb08f55a11306bf174",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c600b33bad9d9b587b05bc0db5a8e419b57c2b0a"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/bundlemanager_bundle_framework",
+    "sha": "27e60da7bdef96e36608fc5d71d5c6620f44fd6e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "2eea4e11e2872d057c1a0ec242b1134f9f531a7e"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/build_lite",
+    "sha": "3797a2f26b197572958e89976a1812fc1c77f93c",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "f5df7d32e6e6acc84567ab04035c5801f33760ff"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "d50ab710ab32ebc3bf87ce5c1f693f541c1f92e0",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e057e038322650560772324c5015785d46f718ff"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "f698792a47a448762f916c3a87cd7213cdf1dbb8",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "8215a95d3d45fbcc30c25bb25a57b3a1139fe77d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_sms_mms",
+    "sha": "687d92660df3ab27f006f465de2a82ad50fc1904",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c940ea736f64826c4929356e83e4bae3de5748d4"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "56a010a5a8e018075700967455aa4beb282b987e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "9ca938499208f18e2a650347c771ee486bf48064"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "b0f79b5086f34ef99172f59c3cd8a5c98d1a0369",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "e073f20f743f73cadcddca7acc2cafe4ddd03b8a",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5ea48fa2b46f67a17e6d68420aa6b55ffae95cb0"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/startup_appspawn",
+    "sha": "90dd694fca9c9b9674a51eb7982d85eb33a66598",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "0cd9e71de77fa7d559d083947437ace13d8a6be1"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/third_party_musl",
+    "sha": "3c73fe94f0d59743d005db409e740d3c4dadba7f",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "f0ec91055e6d841236679fd24136ad136482828b"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_sms_mms",
+    "sha": "33398a5eb716eda762391a7f7bb7663177f85ce2",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5150a2e473c2bebfa7dd5f81443161b8b376d2f8"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "82859aec96f975ac06ce723de8fbc30fa5930311",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "ef69467cd367748551e9d6b3ce6296fe52d4eaa3"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "940a5a8c2cd1ced84d435933dbcdbb1a7fbf3000",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "4e62fec9833837f4eac53e1b0475c8099b6bd489"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/device_soc_hisilicon",
+    "sha": "1ee91262fff0ed0f49480d3f4f04536dde4e3793",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "f74e482c32e4382784495af9a0467453b62bcb4d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "2ca55aca0c8ec8dab3e2c5ddc53d478846618979",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c2dd72e356cf9a90fc21b1412306303bceb53b99"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_linux_5.10",
+    "sha": "1b871e07210ef6466fa6f405b5547f8da4aa008e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "9e71dcc049974c8fcf9df493aac82f850461ab4b"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "ef02dbd8e92e773a1906334d93ee473ad672a892",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5ea48fa2b46f67a17e6d68420aa6b55ffae95cb0"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_netmanager_base",
+    "sha": "3a47106a09c71fb13d4c86215124c6c8ed39b4da",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "7d0c987f0cd4134040935384d50e17f226507463"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "eff092db203e8f7506b761ba70401a0d42c6380a",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "93c339045098e3f0024dca78244dc398a7940035"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "02abd34ad29301fdd3ade31fe35c62033e732007",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "9a65db79ad0bcbaf50049542b53ca706d578e88a"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "60e82449c7a3aa52ec9f5f60670e1dec81b75560",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "1b23531531e768398682582969c2a9f17e72cafe"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkui_ace_engine",
+    "sha": "64f1205980a429681be89927aaf715c50f39f1b9",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "b29cecb8cdc7383467e0dbd86a394c92f79ee38e"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/startup_appspawn",
+    "sha": "8e67efbd4829a5283a22917cbf127784d764e270",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "0cd9e71de77fa7d559d083947437ace13d8a6be1"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "15cf58260e3d2a195af2c58bf32220712f3778d1",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "dfc582aecda8ac1e0570d5f6fddbe332c52d0d27"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "e2876b54e491ecc50c4caa4e597399f883acbcc1",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_wifi",
+    "sha": "6acb7e80509f61421193fa7bf1531030b7f95b94",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "de2e630d81ce7666858cbbbff0b932263be60b52"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_ipc",
+    "sha": "29753314775827ac0cec7502e5248323be1743a3",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "9c3ed120162f9b8da6798fcba3e23a5de9ef984a"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "3565a5e1b00962fb340c67e677d7ecb0fa383850",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "cd89eb9b5f590230362258e82a3997b83465934d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "b273ddc98dae8dbac7b399d55af04e4b6351244d",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "066a984a9762c5f4c75defbe66f9d9649b1c3ce7"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_linux_5.10",
+    "sha": "0461994cd06aa4d37199d4a6e5d58abab642a4ee",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "67044a53a26d7256cee74a09a1f59f8a153f2547"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "42f79f133b5fcfe7930871a142cd504296546425",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "d1288f7776fa4e4f6922244c54b1b644e3cfae9f"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "f2a92bd8205160e4d6ea2b83b27ee4d7a3b25e10",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "6241f722f3b9f8eaf6ab1616ee7dacacb36bd550"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/notification_common_event_service",
+    "sha": "67cb1a9113cf0ba24219a193054645dfe9faf151",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5fc3c390aeb85311e3a75a3a08eab29483514ed3"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "5ad72578c1f247771a46a1cd0e81e0bfe443f9dc",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "fef87f5da86ea491bfa521f12a370e28ae415bb8"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/resourceschedule_background_task_mgr",
+    "sha": "d99f681ba072d91593f038aa4edce8d525c7ae8e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "0a6e90e327d1f0d22addd1dad468125edec7c830"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "b7e6d6780ecf22492daeb1859fb551f7842ef2af",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c2dd72e356cf9a90fc21b1412306303bceb53b99"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_ipc",
+    "sha": "d9077a5cc0d7626e7842b9128b8d5b2fcf9364b9",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "143db28d92c8483c9ee37a1d2893b9b9bb5da1b1"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/security_access_token",
+    "sha": "f8d8e4729c3007af5c8a8d42197ed21aa2882efb",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e232d8ed63b53ba883265972872695bb5aab756a"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "d14df5979ed7fa5e18abf48c078b0b1c6ba4821d",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_bluetooth_service",
+    "sha": "70a4da32e34350bff07a6faa00fe4b58d67c707f",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "d269c4123bac403b2f70a80a42d9761d74d0cc19"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/telephony_cellular_call",
+    "sha": "ada347617b373a1aeb12247dc8bb70d6de920337",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "b615c0801125d92ed877df68122d5250b8edf082"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/startup_init_lite",
+    "sha": "1e1c8af3e9e1059be00d2b4d5ddc602662fca321",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "49fd39eed080de16adab755bf9461264e0be79b3"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "bff2ce8e886ab7b82580a11059f8ba1dc53880f5",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "562c5d93d3442555557b849c5eca5881f2e785e4"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "84c061166c46c6c898a11e5f2b54402695b037ce",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "24c4aecefe9ab8ab795385cbe61eb5333522715f"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "56f19ad12cbdbdc30e849c93c76a3bfdafc2475e",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c1eda52ab32c75e4014230ffeaecf2a1d3702971"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "31da79ec80e5a1517e3aff126a4b13ed37d352ee",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "91f09783e3e6031c2ed6e2fbc7e730197ecf386e"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "94ac2627be20cfd161285c80e3d491127e242da6",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "b2795f9d69aad5555e02578b03d8dbe64189e1d8"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "89707ac72479252d86e3eccef650fe06d2df33a4",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "70bcfbd6485602d04720cd46f9a9f65c4292f555"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "c973e41474285d995818da8701a963d25b25a7a1",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "635201dcbed7b3320835c32d17ae74c9ca74c20a"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/update_updater",
+    "sha": "dd6d9fdd821402fbfb12d8b096e26aa54f9bda29",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "8647293f0a3b84bbd5415422ead90370cb07c7db"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "4bb465f9af0af618c9d4b24b82ede7dd9f12faa6",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "2f3389d39daeecc179cffee26a6c8e890e869d77"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "0bb2f5f7f2a5016df6a7b89b1a2ce0a273942508",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "4bf644763531957070f5ffe7419825c7e5872b6a"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "5ad0bd5405e33c1ae0719e17ac2483a061e63232",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "8215a95d3d45fbcc30c25bb25a57b3a1139fe77d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "4dc8563b0ecf054d63213ef242410aef5a2b9b8a",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5e3e1daf0f86ea6054d4d54274cf0de8e493c14f"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/msdp_device_status",
+    "sha": "5b5e3a6351d59e061ddd4ec5aacf6ccc2200c24a",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "7a67238283fa5b0c9b6c8cc3ebcccae6f38ce919"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/multimedia_camera_framework",
+    "sha": "682b05db84311425c2c6acc3805ad6b2095431f4",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "fece766aaa99abe15ad478935aa8d74d57cb4003"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "09bcabfaf6f91945d3b3e1e070ffb5caed30acf2",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c908505e28f19b3f7fdc7635253da564058bb5c9"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "867addf5df55bd0cb1e440121e8d237dbcd0cf4c",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "319168676be4b58127e49b38fa96703991c5a203"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "e1bda24a611bfba33808d8711640d328d1c294b7",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "eabbbc9e4e3fb618853f9cc7f93df40ff46c80d9"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "c9f95fda791a39cf0f977fddd0e7d3bc9bbebea8",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "e6eb21f55e4768f6cfbf09cedb0b35259bafcb4b"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "493e2b738c21f4b1114c43bb51217cf81caf2224",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "ac9efd9f0487c6f90d9cde38f3680b983fee0833",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "8e5f0c0470e80bb2e866ff29681de4102bdf3bd3",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "c1eda52ab32c75e4014230ffeaecf2a1d3702971"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/distributeddatamgr_udmf",
+    "sha": "5e387fbefc7afdc638d43d4a46923e9eeafe82de",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "840b74519416e36e161cacebfaede1f18ec3fce3"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "f636c8f9faffad74a786bc236079901f9dbcda19",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "cd89eb9b5f590230362258e82a3997b83465934d"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_liteos_a",
+    "sha": "1c9b4fa0d9af5121238df7aba015566ea01a4384",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "0c53eca08926955c607ec657795e9352bfa69757"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_dsoftbus",
+    "sha": "9ba89c663fdde2c6c7b6037cfbde8ea39bb83648",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "2f1194a2d61581faa28cd6be15240062b8061f13"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/arkcompiler_ets_runtime",
+    "sha": "3788a468cc765a10e25bb056af180eac946385e8",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "5aa9c035e98911ec7ed28065a2138c2709792a42"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/kernel_linux_5.10",
+    "sha": "0642a2a1dd3a8b3f0cdd7c37ae33f9dd09514118",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "4048f12d993e0a89e9dda401224f12a99b701052"
+  },
+  {
+    "repo_url": "https://gitee.com/openharmony/communication_wifi",
+    "sha": "08c260c115b97f79e6692cb5dd6e8fcc7530af3f",
+    "source_file": "negative_sample",
+    "is_positive": false,
+    "matched_positive_sha": "fb1168f02bb7f617d0c7089da45aeb4cb4c49d24"
+  }
+]

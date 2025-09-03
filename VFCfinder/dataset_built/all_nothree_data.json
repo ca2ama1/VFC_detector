@@ -1,0 +1,1769 @@
+{
+  "commits": [],
+  "pulls": [
+    {
+      "owner": "openharmony",
+      "repo": "communication_bluetooth",
+      "number": 179,
+      "url": "https://gitee.com/openharmony/communication_bluetooth/pulls/179",
+      "source_file": "2022-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "update_updater",
+      "number": 101,
+      "url": "https://gitee.com/openharmony/update_updater/pulls/101",
+      "source_file": "2022-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 2140,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/2140",
+      "source_file": "2022-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 1372,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/1372",
+      "source_file": "2022-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 1369,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/1369",
+      "source_file": "2022-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 1807,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/1807",
+      "source_file": "2022-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 1422,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/1422",
+      "source_file": "2022-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "global_resource_management",
+      "number": 136,
+      "url": "https://gitee.com/openharmony/global_resource_management/pulls/136",
+      "source_file": "2022-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "startup_appspawn",
+      "number": 361,
+      "url": "https://gitee.com/openharmony/startup_appspawn/pulls/361",
+      "source_file": "2022-11.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "request_request",
+      "number": 207,
+      "url": "https://gitee.com/openharmony/request_request/pulls/207",
+      "source_file": "2022-11.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "distributedhardware_device_manager",
+      "number": 728,
+      "url": "https://gitee.com/openharmony/distributedhardware_device_manager/pulls/728",
+      "source_file": "2022-11.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "notification_common_event_service",
+      "number": 402,
+      "url": "https://gitee.com/openharmony/notification_common_event_service/pulls/402",
+      "source_file": "2022-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "notification_common_event_service",
+      "number": 288,
+      "url": "https://gitee.com/openharmony/notification_common_event_service/pulls/288",
+      "source_file": "2022-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "notification_common_event_service",
+      "number": 245,
+      "url": "https://gitee.com/openharmony/notification_common_event_service/pulls/245",
+      "source_file": "2022-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "update_updateservice",
+      "number": 115,
+      "url": "https://gitee.com/openharmony/update_updateservice/pulls/115",
+      "source_file": "2022-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "multimedia_player_framework",
+      "number": 567,
+      "url": "https://gitee.com/openharmony/multimedia_player_framework/pulls/567",
+      "source_file": "2022-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "startup_init_lite",
+      "number": 1104,
+      "url": "https://gitee.com/openharmony/startup_init_lite/pulls/1104",
+      "source_file": "2022-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "startup_init_lite",
+      "number": 1074,
+      "url": "https://gitee.com/openharmony/startup_init_lite/pulls/1074",
+      "source_file": "2022-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "device_board_hisilicon",
+      "number": 135,
+      "url": "https://gitee.com/openharmony/device_board_hisilicon/pulls/135",
+      "source_file": "2022-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "device_hisilicon_hi3516dv300",
+      "number": 87,
+      "url": "https://gitee.com/openharmony/device_hisilicon_hi3516dv300/pulls/87",
+      "source_file": "2022-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "device_soc_hisilicon",
+      "number": 287,
+      "url": "https://gitee.com/openharmony/device_soc_hisilicon/pulls/287",
+      "source_file": "2022-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "device_hisilicon_hispark_taurus",
+      "number": 127,
+      "url": "https://gitee.com/openharmony/device_hisilicon_hispark_taurus/pulls/127",
+      "source_file": "2022-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 2348,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/2348",
+      "source_file": "2022-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "distributedhardware_device_manager",
+      "number": 915,
+      "url": "https://gitee.com/openharmony/distributedhardware_device_manager/pulls/915",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "applications_hap",
+      "number": 1364,
+      "url": "https://gitee.com/openharmony/applications_hap/pulls/1364",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "security_device_auth",
+      "number": 351,
+      "url": "https://gitee.com/openharmony/security_device_auth/pulls/351",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1065,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1065",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1066,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1066",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1075,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1075",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1065,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1065",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1066,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1066",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1075,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1075",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1065,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1065",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1066,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1066",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1075,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1075",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "startup_appspawn",
+      "number": 361,
+      "url": "https://gitee.com/openharmony/startup_appspawn/pulls/361",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "startup_appspawn",
+      "number": 426,
+      "url": "https://gitee.com/openharmony/startup_appspawn/pulls/426",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_state_registry",
+      "number": 224,
+      "url": "https://gitee.com/openharmony/telephony_state_registry/pulls/224",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_sms_mms",
+      "number": 615,
+      "url": "https://gitee.com/openharmony/telephony_sms_mms/pulls/615",
+      "source_file": "2022-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_sms_mms",
+      "number": 404,
+      "url": "https://gitee.com/openharmony/telephony_sms_mms/pulls/404",
+      "source_file": "2022-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_sms_mms",
+      "number": 355,
+      "url": "https://gitee.com/openharmony/telephony_sms_mms/pulls/355",
+      "source_file": "2022-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_sms_mms",
+      "number": 404,
+      "url": "https://gitee.com/openharmony/telephony_sms_mms/pulls/404",
+      "source_file": "2022-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_sms_mms",
+      "number": 355,
+      "url": "https://gitee.com/openharmony/telephony_sms_mms/pulls/355",
+      "source_file": "2022-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_sms_mms",
+      "number": 404,
+      "url": "https://gitee.com/openharmony/telephony_sms_mms/pulls/404",
+      "source_file": "2022-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_sms_mms",
+      "number": 355,
+      "url": "https://gitee.com/openharmony/telephony_sms_mms/pulls/355",
+      "source_file": "2022-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_sms_mms",
+      "number": 404,
+      "url": "https://gitee.com/openharmony/telephony_sms_mms/pulls/404",
+      "source_file": "2022-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_sms_mms",
+      "number": 355,
+      "url": "https://gitee.com/openharmony/telephony_sms_mms/pulls/355",
+      "source_file": "2022-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 1668,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/1668",
+      "source_file": "2022-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 2157,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/2157",
+      "source_file": "2022-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "third_party_cJSON",
+      "number": 37,
+      "url": "https://gitee.com/openharmony/third_party_cJSON/pulls/37",
+      "source_file": "2022-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "build_lite",
+      "number": 575,
+      "url": "https://gitee.com/openharmony/build_lite/pulls/575",
+      "source_file": "2022-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "third_party_cJSON",
+      "number": 36,
+      "url": "https://gitee.com/openharmony/third_party_cJSON/pulls/36",
+      "source_file": "2022-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "build_lite",
+      "number": 574,
+      "url": "https://gitee.com/openharmony/build_lite/pulls/574",
+      "source_file": "2022-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "third_party_cJSON",
+      "number": 38,
+      "url": "https://gitee.com/openharmony/third_party_cJSON/pulls/38",
+      "source_file": "2022-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "build_lite",
+      "number": 576,
+      "url": "https://gitee.com/openharmony/build_lite/pulls/576",
+      "source_file": "2022-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "security_access_token",
+      "number": 397,
+      "url": "https://gitee.com/openharmony/security_access_token/pulls/397",
+      "source_file": "2022-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 2049,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/2049",
+      "source_file": "2022-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 2085,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/2085",
+      "source_file": "2022-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "window_window_manager",
+      "number": 1480,
+      "url": "https://gitee.com/openharmony/window_window_manager/pulls/1480",
+      "source_file": "2022-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "multimedia_camera_framework",
+      "number": 247,
+      "url": "https://gitee.com/openharmony/multimedia_camera_framework/pulls/247",
+      "source_file": "2022-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1177,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1177",
+      "source_file": "2023-11.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkui_ace_engine",
+      "number": 8872,
+      "url": "https://gitee.com/openharmony/arkui_ace_engine/pulls/8872",
+      "source_file": "2023-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkui_ace_engine",
+      "number": 8877,
+      "url": "https://gitee.com/openharmony/arkui_ace_engine/pulls/8877",
+      "source_file": "2023-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_linux_5.10",
+      "number": 656,
+      "url": "https://gitee.com/openharmony/kernel_linux_5.10/pulls/656",
+      "source_file": "2023-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_linux_5.10",
+      "number": 598,
+      "url": "https://gitee.com/openharmony/kernel_linux_5.10/pulls/598",
+      "source_file": "2023-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_wifi",
+      "number": 788,
+      "url": "https://gitee.com/openharmony/communication_wifi/pulls/788",
+      "source_file": "2023-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_wifi",
+      "number": 862,
+      "url": "https://gitee.com/openharmony/communication_wifi/pulls/862",
+      "source_file": "2023-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "bundlemanager_bundle_framework",
+      "number": 3094,
+      "url": "https://gitee.com/openharmony/bundlemanager_bundle_framework/pulls/3094",
+      "source_file": "2023-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 5061,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/5061",
+      "source_file": "2023-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 5061,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/5061",
+      "source_file": "2023-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 5061,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/5061",
+      "source_file": "2023-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "security_certificate_manager",
+      "number": 199,
+      "url": "https://gitee.com/openharmony/security_certificate_manager/pulls/199",
+      "source_file": "2023-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1179,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1179",
+      "source_file": "2023-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1179,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1179",
+      "source_file": "2023-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "hiviewdfx_hiview",
+      "number": 1089,
+      "url": "https://gitee.com/openharmony/hiviewdfx_hiview/pulls/1089",
+      "source_file": "2023-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 2140,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/2140",
+      "source_file": "2023-01.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "inputmethod_imf",
+      "number": 228,
+      "url": "https://gitee.com/openharmony/inputmethod_imf/pulls/228",
+      "source_file": "2023-01.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "distributeddatamgr_pasteboard",
+      "number": 555,
+      "url": "https://gitee.com/openharmony/distributeddatamgr_pasteboard/pulls/555",
+      "source_file": "2024-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_wifi",
+      "number": 1748,
+      "url": "https://gitee.com/openharmony/communication_wifi/pulls/1748",
+      "source_file": "2024-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkui_ace_engine",
+      "number": 23360,
+      "url": "https://gitee.com/openharmony/arkui_ace_engine/pulls/23360",
+      "source_file": "2024-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkui_ace_engine",
+      "number": 25795,
+      "url": "https://gitee.com/openharmony/arkui_ace_engine/pulls/25795",
+      "source_file": "2024-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "resourceschedule_background_task_mgr",
+      "number": 470,
+      "url": "https://gitee.com/openharmony/resourceschedule_background_task_mgr/pulls/470",
+      "source_file": "2024-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "security_huks",
+      "number": 1001,
+      "url": "https://gitee.com/openharmony/security_huks/pulls/1001",
+      "source_file": "2024-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "msdp_device_status",
+      "number": 1407,
+      "url": "https://gitee.com/openharmony/msdp_device_status/pulls/1407",
+      "source_file": "2024-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_frontend",
+      "number": 1885,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_frontend/pulls/1885",
+      "source_file": "2024-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_bluetooth_service",
+      "number": 171,
+      "url": "https://gitee.com/openharmony/communication_bluetooth_service/pulls/171",
+      "source_file": "2024-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 6395,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/6395",
+      "source_file": "2024-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_linux_5.10",
+      "number": 1282,
+      "url": "https://gitee.com/openharmony/kernel_linux_5.10/pulls/1282",
+      "source_file": "2024-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_linux_5.10",
+      "number": 1276,
+      "url": "https://gitee.com/openharmony/kernel_linux_5.10/pulls/1276",
+      "source_file": "2024-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 6486,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/6486",
+      "source_file": "2024-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_frontend",
+      "number": 2003,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_frontend/pulls/2003",
+      "source_file": "2024-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 6417,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/6417",
+      "source_file": "2024-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 6557,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/6557",
+      "source_file": "2024-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 6542,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/6542",
+      "source_file": "2024-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 6878,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/6878",
+      "source_file": "2024-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 6561,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/6561",
+      "source_file": "2024-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1227,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1227",
+      "source_file": "2024-11.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1228,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1228",
+      "source_file": "2024-11.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1230,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1230",
+      "source_file": "2024-11.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1231,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1231",
+      "source_file": "2024-11.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1233,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1233",
+      "source_file": "2024-11.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1234,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1234",
+      "source_file": "2024-11.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1236,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1236",
+      "source_file": "2024-11.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1237,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1237",
+      "source_file": "2024-11.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "third_party_musl",
+      "number": 1064,
+      "url": "https://gitee.com/openharmony/third_party_musl/pulls/1064",
+      "source_file": "2024-01.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "multimedia_audio_framework",
+      "number": 1407,
+      "url": "https://gitee.com/openharmony/multimedia_audio_framework/pulls/1407",
+      "source_file": "2024-01.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "multimedia_camera_framework",
+      "number": 988,
+      "url": "https://gitee.com/openharmony/multimedia_camera_framework/pulls/988",
+      "source_file": "2024-01.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "multimedia_player_framework",
+      "number": 1861,
+      "url": "https://gitee.com/openharmony/multimedia_player_framework/pulls/1861",
+      "source_file": "2024-01.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "multimedia_player_framework",
+      "number": 1861,
+      "url": "https://gitee.com/openharmony/multimedia_player_framework/pulls/1861",
+      "source_file": "2024-01.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1199,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1199",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1200,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1200",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1195,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1195",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1196,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1196",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 7982,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/7982",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 7989,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/7989",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 7675,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/7675",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 7658,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/7658",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_netmanager_base",
+      "number": 2404,
+      "url": "https://gitee.com/openharmony/communication_netmanager_base/pulls/2404",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_netmanager_base",
+      "number": 2403,
+      "url": "https://gitee.com/openharmony/communication_netmanager_base/pulls/2403",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1190,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1190",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1191,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1191",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "ability_ability_runtime",
+      "number": 7767,
+      "url": "https://gitee.com/openharmony/ability_ability_runtime/pulls/7767",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "resourceschedule_background_task_mgr",
+      "number": 470,
+      "url": "https://gitee.com/openharmony/resourceschedule_background_task_mgr/pulls/470",
+      "source_file": "2024-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkui_ace_engine",
+      "number": 26388,
+      "url": "https://gitee.com/openharmony/arkui_ace_engine/pulls/26388",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "multimedia_audio_framework",
+      "number": 2442,
+      "url": "https://gitee.com/openharmony/multimedia_audio_framework/pulls/2442",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "multimedia_av_session",
+      "number": 818,
+      "url": "https://gitee.com/openharmony/multimedia_av_session/pulls/818",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "multimedia_camera_framework",
+      "number": 1179,
+      "url": "https://gitee.com/openharmony/multimedia_camera_framework/pulls/1179",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "multimedia_camera_framework",
+      "number": 1181,
+      "url": "https://gitee.com/openharmony/multimedia_camera_framework/pulls/1181",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_cellular_call",
+      "number": 596,
+      "url": "https://gitee.com/openharmony/telephony_cellular_call/pulls/596",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_cellular_call",
+      "number": 595,
+      "url": "https://gitee.com/openharmony/telephony_cellular_call/pulls/595",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "bundlemanager_bundle_framework",
+      "number": 5084,
+      "url": "https://gitee.com/openharmony/bundlemanager_bundle_framework/pulls/5084",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 5061,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/5061",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 5085,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/5085",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_linux_5.10",
+      "number": 1279,
+      "url": "https://gitee.com/openharmony/kernel_linux_5.10/pulls/1279",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_linux_5.10",
+      "number": 1278,
+      "url": "https://gitee.com/openharmony/kernel_linux_5.10/pulls/1278",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 6039,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/6039",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 5454,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/5454",
+      "source_file": "2024-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1222,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1222",
+      "source_file": "2024-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1223,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1223",
+      "source_file": "2024-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1210,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1210",
+      "source_file": "2024-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1211,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1211",
+      "source_file": "2024-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1219,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1219",
+      "source_file": "2024-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1220,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1220",
+      "source_file": "2024-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1213,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1213",
+      "source_file": "2024-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1214,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1214",
+      "source_file": "2024-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_linux_5.10",
+      "number": 1506,
+      "url": "https://gitee.com/openharmony/kernel_linux_5.10/pulls/1506",
+      "source_file": "2024-10.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 4799,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/4799",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 4835,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/4835",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 4799,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/4799",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 4832,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/4832",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 4833,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/4833",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 4811,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/4811",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 4902,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/4902",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 4811,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/4811",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 4902,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/4902",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 4864,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/4864",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 4877,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/4877",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_ipc",
+      "number": 907,
+      "url": "https://gitee.com/openharmony/communication_ipc/pulls/907",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_ipc",
+      "number": 908,
+      "url": "https://gitee.com/openharmony/communication_ipc/pulls/908",
+      "source_file": "2024-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1240,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1240",
+      "source_file": "2024-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1244,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1244",
+      "source_file": "2024-12.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "drivers_adapter_khdf_linux",
+      "number": 28,
+      "url": "https://gitee.com/openharmony/drivers_adapter_khdf_linux/pulls/28",
+      "source_file": "2021-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "distributedschedule_samgr_lite",
+      "number": 7,
+      "url": "https://gitee.com/openharmony/distributedschedule_samgr_lite/pulls/7",
+      "source_file": "2021-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 48,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/48",
+      "source_file": "2021-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "systemabilitymgr_samgr_lite",
+      "number": 24,
+      "url": "https://gitee.com/openharmony/systemabilitymgr_samgr_lite/pulls/24",
+      "source_file": "2021-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 373,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/373",
+      "source_file": "2021-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "drivers_adapter",
+      "number": 31,
+      "url": "https://gitee.com/openharmony/drivers_adapter/pulls/31",
+      "source_file": "2021-09.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10936,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10936",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10949,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10949",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10951,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10951",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1267,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1267",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1266,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1266",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1263,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1263",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1262,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1262",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10936,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10936",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 11011,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/11011",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 11010,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/11010",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10949,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10949",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 11012,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/11012",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10936,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10936",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 11012,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/11012",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10949,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10949",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10951,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10951",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10949,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10949",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 8945,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/8945",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 8942,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/8942",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 8945,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/8945",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 8942,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/8942",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 8945,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/8945",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 8942,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/8942",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10949,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10949",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10936,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10936",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10936,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10936",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 8945,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/8945",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 8942,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/8942",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-03.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1251,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1251",
+      "source_file": "2025-01.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1247,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1247",
+      "source_file": "2025-01.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 8361,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/8361",
+      "source_file": "2025-01.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1298,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1298",
+      "source_file": "2025-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1295,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1295",
+      "source_file": "2025-08.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "third_party_mksh",
+      "number": 68,
+      "url": "https://gitee.com/openharmony/third_party_mksh/pulls/68",
+      "source_file": "2025-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 11279,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/11279",
+      "source_file": "2025-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "distributeddatamgr_udmf",
+      "number": 526,
+      "url": "https://gitee.com/openharmony/distributeddatamgr_udmf/pulls/526",
+      "source_file": "2025-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "ai_neural_network_runtime",
+      "number": 258,
+      "url": "https://gitee.com/openharmony/ai_neural_network_runtime/pulls/258",
+      "source_file": "2025-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "multimedia_av_codec",
+      "number": 4465,
+      "url": "https://gitee.com/openharmony/multimedia_av_codec/pulls/4465",
+      "source_file": "2025-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 11067,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/11067",
+      "source_file": "2025-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10951,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10951",
+      "source_file": "2025-05.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1270,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1270",
+      "source_file": "2025-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1271,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1271",
+      "source_file": "2025-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10949,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10949",
+      "source_file": "2025-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10951,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10951",
+      "source_file": "2025-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "third_party_NuttX",
+      "number": 172,
+      "url": "https://gitee.com/openharmony/third_party_NuttX/pulls/172",
+      "source_file": "2025-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "third_party_NuttX",
+      "number": 171,
+      "url": "https://gitee.com/openharmony/third_party_NuttX/pulls/171",
+      "source_file": "2025-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10936,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10936",
+      "source_file": "2025-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10949,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10949",
+      "source_file": "2025-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10951,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10951",
+      "source_file": "2025-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 10937,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/10937",
+      "source_file": "2025-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 11026,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/11026",
+      "source_file": "2025-04.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1260,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1260",
+      "source_file": "2025-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1258,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1258",
+      "source_file": "2025-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1254,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1254",
+      "source_file": "2025-02.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkui_ace_engine",
+      "number": 60018,
+      "url": "https://gitee.com/openharmony/arkui_ace_engine/pulls/60018",
+      "source_file": "2025-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkui_ace_engine",
+      "number": 60945,
+      "url": "https://gitee.com/openharmony/arkui_ace_engine/pulls/60945",
+      "source_file": "2025-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 11447,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/11447",
+      "source_file": "2025-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkui_ace_engine",
+      "number": 60922,
+      "url": "https://gitee.com/openharmony/arkui_ace_engine/pulls/60922",
+      "source_file": "2025-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1281,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1281",
+      "source_file": "2025-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_m",
+      "number": 1131,
+      "url": "https://gitee.com/openharmony/kernel_liteos_m/pulls/1131",
+      "source_file": "2025-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "telephony_call_manager",
+      "number": 2071,
+      "url": "https://gitee.com/openharmony/telephony_call_manager/pulls/2071",
+      "source_file": "2025-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "security_access_token",
+      "number": 2962,
+      "url": "https://gitee.com/openharmony/security_access_token/pulls/2962",
+      "source_file": "2025-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "security_access_token",
+      "number": 3203,
+      "url": "https://gitee.com/openharmony/security_access_token/pulls/3203",
+      "source_file": "2025-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "security_security_component_manager",
+      "number": 300,
+      "url": "https://gitee.com/openharmony/security_security_component_manager/pulls/300",
+      "source_file": "2025-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "distributeddatamgr_pasteboard",
+      "number": 1106,
+      "url": "https://gitee.com/openharmony/distributeddatamgr_pasteboard/pulls/1106",
+      "source_file": "2025-06.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "applications_settings",
+      "number": 852,
+      "url": "https://gitee.com/openharmony/applications_settings/pulls/852",
+      "source_file": "2025-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "arkcompiler_ets_runtime",
+      "number": 11423,
+      "url": "https://gitee.com/openharmony/arkcompiler_ets_runtime/pulls/11423",
+      "source_file": "2025-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1275,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1275",
+      "source_file": "2025-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "kernel_liteos_a",
+      "number": 1279,
+      "url": "https://gitee.com/openharmony/kernel_liteos_a/pulls/1279",
+      "source_file": "2025-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 9747,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/9747",
+      "source_file": "2025-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "distributeddatamgr_pasteboard",
+      "number": 1539,
+      "url": "https://gitee.com/openharmony/distributeddatamgr_pasteboard/pulls/1539",
+      "source_file": "2025-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 9747,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/9747",
+      "source_file": "2025-07.md"
+    },
+    {
+      "owner": "openharmony",
+      "repo": "communication_dsoftbus",
+      "number": 9745,
+      "url": "https://gitee.com/openharmony/communication_dsoftbus/pulls/9745",
+      "source_file": "2025-07.md"
+    }
+  ]
+}
