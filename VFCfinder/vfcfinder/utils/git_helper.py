@@ -2,12 +2,13 @@
 Helper functions for locally cloned Git repos
 """
 import datetime
-import os
-import subprocess
 import time
-from typing import List, Dict
+
 from datetime import datetime, timedelta  # 确保正确导入
 import json
+import subprocess
+from threading import Timer
+import os
 
 
 import git
@@ -60,8 +61,6 @@ def get_gitee_repos(org_name, access_token=None, cache_file='gitee_repos_cache.j
             for repo in data:
                 namespace = repo.get('namespace', {})
                 if namespace.get('path') == org_name:
-
-
                     parent_repos.append(repo)
 
             print(f"已获取第 {page} 页，当前仓库数: {len(parent_repos)}")
@@ -199,73 +198,177 @@ def clone_repo(repo_type:str,repo_owner:str, repo_name:str, clone_path:str, loca
                 f"{repo_name.replace('.git', '')}.git"
             )
 
+#
+# def clone_repo_with_token(repo_type:str,repo_owner:str, repo_name:str, clone_path:str,token:str, local_name=False):
+#     """Clone a Git repository to a local path
+#
+#     Args:
+#         repo_type (str): Repo Type
+#         repo_owner (str): Repo Owner
+#         repo_name (str): Repo Name
+#         clone_path (str): Desired clone path
+#         local_name (bool): If a unique clone path is set
+#     """
+#     # set path
+#     if not local_name:
+#         clone_path = f"{clone_path}{repo_owner}/"
+#     else:
+#         clone_path = f"{clone_path}"
+#
+#     if not os.path.exists(clone_path):
+#         os.makedirs(clone_path)
+#
+#         # 检查仓库是否存在
+#     if not check_repo_exists(repo_type, repo_owner, repo_name, token):
+#         print(f"❌ 仓库不存在或无权访问: {repo_owner}/{repo_name}")
+#         return False
+#
+#     if not local_name:
+#         # check if clone already exists
+#         if os.path.exists(f"{clone_path}{repo_name}"):
+#             print(f"Path already exists: {clone_path}{repo_name}")
+#         else:
+#             # clone repo
+#             # git.Git(clone_path).clone(f"https://{GITHUB_USERNAME}:
+#             # {GITHUB_TOKEN}@github.com/{repo_owner}/"
+#             #                           f"{repo_name.replace('.git', '')}.git")
+#             print(f"Cloning repo to: {clone_path}{repo_name}")
+#             if '.com' in repo_type:
+#                 git.Git(clone_path).clone(
+#                     f"https://oauth2:{token}@{repo_type}/{repo_owner}/"
+#                     f"{repo_name.replace('.git', '')}.git"
+#                 )
+#             else:
+#                 git.Git(clone_path).clone(
+#                     f"https://oauth2:{token}@{repo_type}.com/{repo_owner}/"
+#                     f"{repo_name.replace('.git', '')}.git"
+#                 )
+#             # git.Git(clone_path).clone(
+#             #     f"https://{repo_type}/{repo_owner}/"
+#             #     f"{repo_name.replace('.git', '')}.git"
+#             # )
+#
+#     else:  # specific local folder name
+#         # check if clone already exists
+#         if os.path.exists(f"{clone_path}{local_name}"):
+#             print(f"Path already exists: {clone_path}{local_name}")
+#         else:
+#             # clone repo
+#             # git.Git(clone_path).clone(
+#             #     f"https://{GITHUB_USERNAME}:{GITHUB_TOKEN}@github.com/{repo_owner}/"
+#             #     f"{repo_name.replace('.git', '')}.git"
+#             # )
+#             print(f"Cloning repo to: {clone_path}{local_name}")
+#             git.Git(clone_path).clone(
+#                 f"https://github.com/{repo_owner}/"
+#                 f"{repo_name.replace('.git', '')}.git"
+#             )
+#
+#     return True
 
-def clone_repo_with_token(repo_type:str,repo_owner:str, repo_name:str, clone_path:str,token:str, local_name=False):
-    """Clone a Git repository to a local path
+
+def clone_repo_with_timeout(repo_url, clone_path, timeout=300, local_name=None):
+    """
+    带超时机制的git clone函数
+    :param repo_url: 仓库URL
+    :param clone_path: 克隆路径
+    :param timeout: 超时时间(秒)，默认5分钟
+    :param local_name: 自定义本地目录名
+    :return: True if clone成功, False if 超时或失败
+    """
+
+    def kill_process(p):
+        p.kill()
+
+    try:
+        target_path = os.path.join(clone_path, local_name) if local_name else None
+        cmd = ["git", "clone", repo_url]
+        if target_path:
+            cmd.append(target_path)
+
+        print(f"Executing: {' '.join(cmd)}")
+        proc = subprocess.Popen(cmd, cwd=clone_path)
+
+        timer = Timer(timeout, kill_process, [proc])
+        timer.start()
+
+        proc.communicate()  # 等待进程完成
+        timer.cancel()
+
+        if proc.returncode == 0:
+            print("✅ Clone成功")
+            return True
+        else:
+            print(f"❌ Clone失败，返回码: {proc.returncode}")
+            return False
+    except Exception as e:
+        print(f"❌ Clone过程中发生异常: {str(e)}")
+        return False
+
+
+def clone_repo_with_token(repo_type: str, repo_owner: str, repo_name: str,
+                          clone_path: str, token: str, local_name=False, timeout=300):
+    """Clone a Git repository to a local path with timeout mechanism
 
     Args:
-        repo_type (str): Repo Type
+        repo_type (str): Repo Type (e.g. 'github.com')
         repo_owner (str): Repo Owner
         repo_name (str): Repo Name
         clone_path (str): Desired clone path
-        local_name (bool): If a unique clone path is set
+        token (str): Authentication token
+        local_name (bool or str): If False, use repo_name; if str, use as custom dir name
+        timeout (int): Timeout in seconds (default: 300)
+    Returns:
+        bool: True if clone succeeded, False otherwise
     """
     # set path
     if not local_name:
-        clone_path = f"{clone_path}{repo_owner}/"
+        clone_path = os.path.join(clone_path, repo_owner)
     else:
-        clone_path = f"{clone_path}"
+        clone_path = clone_path  # Use as-is for custom local_name
 
-    if not os.path.exists(clone_path):
-        os.makedirs(clone_path)
+    # Create directory if not exists
+    os.makedirs(clone_path, exist_ok=True)
 
-        # 检查仓库是否存在
-    # if not check_repo_exists(repo_type, repo_owner, repo_name, token):
-    #     print(f"❌ 仓库不存在或无权访问: {repo_owner}/{repo_name}")
-    #     return False
+    # 检查仓库是否存在
+    # f not check_repo_exists(repo_type, repo_owner, repo_name, token):
+    # print(f"❌ 仓库不存在或无权访问: {repo_owner}/{repo_name}")
+    # return False
+    # i
+    # 构建仓库URL
+    if '.com' in repo_type:
+        repo_url = f"https://oauth2:{token}@{repo_type}/{repo_owner}/{repo_name.replace('.git', '')}.git"
+    else:
+        repo_url = f"https://oauth2:{token}@{repo_type}.com/{repo_owner}/{repo_name.replace('.git', '')}.git"
 
-    if not local_name:
-        # check if clone already exists
-        if os.path.exists(f"{clone_path}{repo_name}"):
-            print(f"Path already exists: {clone_path}{repo_name}")
-        else:
-            # clone repo
-            # git.Git(clone_path).clone(f"https://{GITHUB_USERNAME}:
-            # {GITHUB_TOKEN}@github.com/{repo_owner}/"
-            #                           f"{repo_name.replace('.git', '')}.git")
-            print(f"Cloning repo to: {clone_path}{repo_name}")
-            if '.com' in repo_type:
-                git.Git(clone_path).clone(
-                    f"https://oauth2:{token}@{repo_type}/{repo_owner}/"
-                    f"{repo_name.replace('.git', '')}.git"
-                )
-            else:
-                git.Git(clone_path).clone(
-                    f"https://oauth2:{token}@{repo_type}.com/{repo_owner}/"
-                    f"{repo_name.replace('.git', '')}.git"
-                )
-            # git.Git(clone_path).clone(
-            #     f"https://{repo_type}/{repo_owner}/"
-            #     f"{repo_name.replace('.git', '')}.git"
-            # )
+    # 检查是否已存在
+    target_dir = local_name if isinstance(local_name, str) else repo_name
+    if os.path.exists(os.path.join(clone_path, target_dir)):
+        print(f"⚠️ 路径已存在: {os.path.join(clone_path, target_dir)}")
+        return True
 
-    else:  # specific local folder name
-        # check if clone already exists
-        if os.path.exists(f"{clone_path}{local_name}"):
-            print(f"Path already exists: {clone_path}{local_name}")
-        else:
-            # clone repo
-            # git.Git(clone_path).clone(
-            #     f"https://{GITHUB_USERNAME}:{GITHUB_TOKEN}@github.com/{repo_owner}/"
-            #     f"{repo_name.replace('.git', '')}.git"
-            # )
-            print(f"Cloning repo to: {clone_path}{local_name}")
-            git.Git(clone_path).clone(
-                f"https://github.com/{repo_owner}/"
-                f"{repo_name.replace('.git', '')}.git"
-            )
+    print(f"⬇️ 正在克隆仓库到: {os.path.join(clone_path, target_dir)}")
 
-    return True
+    # 使用带超时的clone函数
+    success = clone_repo_with_timeout(
+        repo_url=repo_url,
+        clone_path=clone_path,
+        timeout=timeout,
+        local_name=target_dir if isinstance(local_name, str) else None
+    )
+
+    if not success:
+        print(f"❌ 克隆仓库超时或失败: {repo_owner}/{repo_name}")
+        # 清理可能不完整的克隆目录
+        target_path = os.path.join(clone_path, target_dir)
+        if os.path.exists(target_path):
+            try:
+                shutil.rmtree(target_path)
+                print(f"🧹 已清理不完整的克隆目录: {target_path}")
+            except Exception as e:
+                print(f"⚠️ 清理目录失败: {str(e)}")
+
+    return success
 
 def check_repo_exists(repo_type: str, repo_owner: str, repo_name: str, token: str) -> bool:
     """检查仓库是否存在且可访问"""
@@ -428,7 +531,7 @@ def get_all_commits(temp_repo_path: str) -> pd.DataFrame:
 
 
 
-def get_recent_commits(temp_repo_path: str, days: int = 1) -> pd.DataFrame:
+def get_recent_commits(temp_repo_path: str, days: int = 5) -> pd.DataFrame:
     """
     获取最近 N 天内的所有提交（默认最近 1 天）
 
@@ -453,7 +556,8 @@ def get_recent_commits(temp_repo_path: str, days: int = 1) -> pd.DataFrame:
 
     print(f"仓库路径: {temp_repo_path}")
     print(f"仓库是否有效: {not repo.bare}")
-    print(f"最近 {100} 天的提交数量: {len(list(repo.iter_commits('--all', since=2024-11-11)))}")
+
+    # print(f"最近 {100} 天的提交数量: {len(list(repo.iter_commits('--all', since=2025-5-11)))}")
     print(f"最近 {days} 天的提交数量: {len(list(repo.iter_commits('--all', since=since_date)))}")
 
     # 使用 `--since` 参数过滤最近days内的提交
@@ -585,6 +689,35 @@ def get_full_commit_message(sha: str, temp_git: git.Git) -> str:
     return final_message
 
 
+from multiprocessing import Process, Queue
+import time
+
+
+def run_commit_local(queue, **kwargs):
+    try:
+        result = patchparser.github_parser_local.commit_local(**kwargs)
+        queue.put(result)
+    except Exception as e:
+        queue.put(e)
+
+
+def commit_local_with_timeout(timeout, **kwargs):
+    queue = Queue()
+    p = Process(target=run_commit_local, args=(queue,), kwargs=kwargs)
+    p.start()
+    p.join(timeout=timeout)
+
+    if p.is_alive():
+        p.terminate()
+        p.join()
+        return None  # 或者 raise TimeoutError("Operation timed out")
+
+    result = queue.get()
+    if isinstance(result, Exception):
+        raise result
+    return result
+
+
 def git_diff(clone_path: str, commit_sha: str) -> dict:
     """Obtains the git diff information using patchparser
     Info: https://github.com/tdunlap607/patchparser
@@ -600,11 +733,18 @@ def git_diff(clone_path: str, commit_sha: str) -> dict:
     repo_owner = clone_path.split("/")[-3]
     repo_name = clone_path.split("/")[-2]
 
-    diff = patchparser.github_parser_local.commit_local(
-        repo_owner=repo_owner,
-        repo_name=repo_name,
-        sha=commit_sha,
-        base_repo_path=clone_path,
-    )
+    # 使用示例
+    try:
+        diff = commit_local_with_timeout(
+            timeout=3,  # 30秒超时
+            repo_owner=repo_owner,
+            repo_name=repo_name,
+            sha=commit_sha,
+            base_repo_path=clone_path,
+        )
+        if diff is None:
+            print("操作超时，已跳过")
+    except Exception as e:
+        print(f"操作出错: {e}")
 
     return diff
