@@ -1,0 +1,5 @@
+name: cross-file-cpg/qlpack
+version: 1.0.0
+libraryPathDependencies: [cpp]
+src: .
+databases: [cpp]
