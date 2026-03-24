@@ -1,73 +1,248 @@
-# VFC_detector 项目文档
+# VFC_detector
 
-## 项目概述
+## Overview
 
-**VFC_detector** 是一个用于检测VFC（开源代码仓库漏洞修复识别及分支定位）的开源工具，托管在GitHub平台上。该项目主要用于代码分析，特别是与CPG（Code Property Graph）相关的模块提取。
+VFC_detector is a vulnerability fix commit and branch localization tool for open-source code repositories. It detects vulnerability fix commits and identifies the affected branches, helping developers quickly locate and understand security patches.
 
-## 项目基本信息
+## Features
 
-- **项目名称**: VFC_detector
-- **GitHub地址**: https://github.com/ca2ama1/VFC_detector
-- **项目状态**: Public
-- **编程语言**: Python (97.4%), Shell (2.0%), CodeQL (0.6%)
-- **Stars**: 3
-- **Forks**: 0
-- **Watchers**: 0
+### Core Functionality
 
-## 项目结构
+- **Vulnerability Fix Commit Detection**: Automatically identifies commits that fix security vulnerabilities
+- **Branch Localization**: Precisely locates which branches contain vulnerability fixes
+- **Code Property Graph (CPG) Analysis**: Uses GraphSPD-inspired approach to extract code structure
+- **Open-source Repository Support**: Works with GitHub, GitLab, and other popular platforms
 
-### 主要目录
+### Branch Localization Capabilities
 
-```
-VFC_detector/
-├── VFCcheker/          # VFC检查模块
-├── VFCfinder/          # VFC查找模块，包含CPG提取功能
-```
+- **Branch Tracing**: Tracks vulnerability fixes across different branches
+- **Merge Commit Analysis**: Identifies when fixes are merged from one branch to another
+- **Branch Impact Assessment**: Determines which branches are affected by specific vulnerabilities
+- **History Reconstruction**: Reconstructs the propagation of fixes through the repository history
 
-### 核心模块
+## Technical Architecture
 
-1. **VFCfinder模块**
-    - 负责提取CPG（Code Property Graph）模块
-    - 主要用于代码分析和模式识别
-2. **VFCcheker模块**
-    - 基础检查功能模块
-  
-### 开发工具
-
-- GitHub平台
-- CodeQL分析工具
-- Shell脚本环境
-
-## 使用场景
-
-VFC_detector项目适用于以下场景：
-
-1. **代码模式检测**: 识别特定的代码结构或模式
-2. **静态代码分析**: 通过CPG进行深度代码分析
-3. **漏洞检测**: 可能用于检测代码中的安全漏洞
-4. **代码质量检查**: 分析代码结构和质量
-
-## 安装与使用
-
-### 环境要求
-
-- Python 3.x
-- Shell环境
-- 相关依赖库
-
-### 安装步骤
+### Data Flow
 
 ```
-# 克隆项目
+Repository → Commit Analysis → CPG Extraction → Vulnerability Detection → Branch Localization → Results
+```
+
+### Key Components
+
+1. **Commit Analyzer**
+    - Parses commit messages and diffs
+    - Identifies security-related keywords and patterns
+    - Extracts code changes for further analysis
+2. **CPG Builder**
+    - Constructs Code Property Graphs from source code
+    - Analyzes control flow and data dependencies
+    - References GraphSPD's approach for graph construction
+3. **Vulnerability Detector**
+    - Applies pattern matching for known vulnerability signatures
+    - Uses machine learning models for anomaly detection
+    - Validates findings against vulnerability databases
+4. **Branch Locator**
+    - Analyzes Git history and branch structure
+    - Tracks commit propagation across branches
+    - Identifies merge points and cherry-picked commits
+
+## Installation
+
+```
+# Clone the repository
 git clone https://github.com/ca2ama1/VFC_detector.git
-
-# 进入项目目录
 cd VFC_detector
 
-# 安装依赖（如有）
-# pip install -r requirements.txt
+# Install dependencies
+pip install -r requirements.txt
+
+# Set up configuration
+cp config.example.yaml config.yaml
 ```
 
-### 使用方法
+## Usage
 
-项目具体使用方法需要参考源代码中的文档或示例。
+### Basic Usage
+
+```
+from vfc_detector import VFCAnalyzer
+
+# Initialize analyzer
+analyzer = VFCAnalyzer("path/to/repository")
+
+# Detect vulnerability fix commits
+fix_commits = analyzer.detect_fix_commits()
+
+# Locate affected branches
+branch_locations = analyzer.locate_branches(fix_commits)
+
+# Generate report
+report = analyzer.generate_report()
+```
+
+### Command Line Interface
+
+```
+# Analyze a repository
+python vfc_detector.py analyze --repo /path/to/repo --output report.json
+
+# List vulnerable branches
+python vfc_detector.py branches --repo /path/to/repo
+
+# Generate detailed report
+python vfc_detector.py report --repo /path/to/repo --format html
+```
+
+## Configuration
+
+### Configuration File (`config.yaml`)
+
+```
+# Repository settings
+repository:
+  path: "/path/to/analyze"
+  type: "git"  # git, github, gitlab
+
+# Analysis settings
+analysis:
+  # Vulnerability detection settings
+  vulnerability_detection:
+    enable_ml: true
+    confidence_threshold: 0.8
+    
+  # Branch localization settings
+  branch_localization:
+    max_depth: 10
+    include_merged: true
+    track_cherry_picks: true
+    
+  # CPG extraction settings
+  cpg_extraction:
+    language: "java"  # java, python, c, cpp
+    max_memory: "2G"
+
+# Output settings
+output:
+  format: "json"
+  verbose: true
+```
+
+## Branch Localization Examples
+
+### Example 1: Basic Branch Tracing
+
+```
+# Find which branches contain a specific fix
+fix_commit = "abc123"
+affected_branches = analyzer.find_affected_branches(fix_commit)
+print(f"Fix {fix_commit} affects branches: {affected_branches}")
+```
+
+### Example 2: Merge Commit Analysis
+
+```
+# Analyze how a fix propagates through merges
+fix_commit = "def456"
+merge_analysis = analyzer.analyze_merge_propagation(fix_commit)
+print(f"Merge propagation path: {merge_analysis['path']}")
+print(f"Affected branches count: {merge_analysis['branch_count']}")
+```
+
+### Example 3: Branch Impact Report
+
+```
+# Generate comprehensive branch impact report
+report = analyzer.generate_branch_impact_report()
+for branch, details in report.items():
+    print(f"Branch: {branch}")
+    print(f"  Vulnerable: {details['vulnerable']}")
+    print(f"  Fix Commit: {details['fix_commit']}")
+    print(f"  Fix Date: {details['fix_date']}")
+```
+
+## Output Format
+
+### Vulnerability Fix Commit Format
+
+```
+{
+  "commit_hash": "abc123...",
+  "author": "username",
+  "date": "2024-01-01T12:00:00Z",
+  "message": "Fix: Buffer overflow in input processing",
+  "files_changed": [
+    "src/vulnerable.c",
+    "tests/test_vulnerable.c"
+  ],
+  "vulnerability_type": "buffer_overflow",
+  "severity": "high",
+  "branches": [
+    "main",
+    "develop",
+    "release/v1.2"
+  ],
+  "merge_points": [
+    {
+      "branch": "develop",
+      "merge_commit": "merge_abc123",
+      "date": "2024-01-02T10:00:00Z"
+    }
+  ]
+}
+```
+
+## Integration with CI/CD
+
+### GitHub Actions Example
+
+```
+name: Vulnerability Detection
+on: [push, pull_request]
+
+jobs:
+  vfc-detection:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+    
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Run VFC_detector
+      run: |
+        python vfc_detector.py analyze --repo . --output security_report.json
+    
+    - name: Upload report
+      uses: actions/upload-artifact@v2
+      with:
+        name: security-report
+        path: security_report.json
+```
+
+## Performance Considerations
+
+### Large Repository Optimization
+
+- **Incremental Analysis**: Only analyze new commits since last run
+- **Parallel Processing**: Process multiple files/commits concurrently
+- **Memory Management**: Configure appropriate memory limits for CPG extraction
+- **Caching**: Cache intermediate results to avoid redundant computations
+
+### Branch Localization Performance
+
+- **Depth Limiting**: Set reasonable limits on branch traversal depth
+- **Selective Analysis**: Focus on active branches rather than all historical branches
+- **Indexing**: Create indexes on commit history for faster branch queries
+
+
+---
+
+*VFC_detector: Empowering developers to quickly locate and understand vulnerability fixes in open-source projects.*
+
