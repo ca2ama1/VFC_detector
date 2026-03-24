@@ -2,7 +2,7 @@
 
 ## 项目概述
 
-**VFC_detector** 是一个用于检测VFC（可能指某种代码模式或漏洞）的开源工具，托管在GitHub平台上。该项目主要用于代码分析，特别是与CPG（Code Property Graph）相关的模块提取。
+**VFC_detector** 是一个用于检测VFC（开源代码仓库漏洞修复识别及分支定位）的开源工具，托管在GitHub平台上。该项目主要用于代码分析，特别是与CPG（Code Property Graph）相关的模块提取。
 
 ## 项目基本信息
 
